@@ -254,6 +254,26 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch684_160_115"/>
     <url>http://nowplayer.now.com</url>
   </channel>
+  <channel id="esp-501">
+    <display-name lang="en">TNT Sports 1</display-name>
+    <url>https://www.tntsports.co.uk</url>
+  </channel>
+  <channel id="esp-502">
+    <display-name lang="en">TNT Sports 2</display-name>
+    <url>https://www.tntsports.co.uk</url>
+  </channel>
+  <channel id="esp-503">
+    <display-name lang="en">TNT Sports 3</display-name>
+    <url>https://www.tntsports.co.uk</url>
+  </channel>
+  <channel id="esp-504">
+    <display-name lang="en">TNT Sports 4</display-name>
+    <url>https://www.tntsports.co.uk</url>
+  </channel>
+  <channel id="esp-599">
+    <display-name lang="en">TNT Sports UHD ULTIMATE</display-name>
+    <url>https://www.tntsports.co.uk</url>
+  </channel>
   <programme start="20260429140000 +0000" stop="20260429150000 +0000" channel="ViuTVsix.hk">
     <title lang="en">20/20 E454 -The Rose Petal Murder (Part.2)</title>
   </programme>
@@ -3226,5 +3246,320 @@
   </programme>
   <programme start="20260430160000 +0000" stop="20260430170000 +0000" channel="nowGolf3.hk">
     <title lang="en">PGA Tour Champions Highlights 2026 -Mitsubishi Electric Classic</title>
+  </programme>
+  <programme start="20260430163000 +0000" stop="20260430173000 +0000" channel="esp-501">
+    <title lang="en">UEFA Europa League and Conference League Magazine</title>
+  </programme>
+  <programme start="20260430163000 +0000" stop="20260430170000 +0000" channel="esp-502">
+    <title lang="en">Roll The Tape</title>
+  </programme>
+  <programme start="20260430163000 +0000" stop="20260430170000 +0000" channel="esp-503">
+    <title lang="en">A-League Highlights</title>
+  </programme>
+  <programme start="20260430164500 +0000" stop="20260430171500 +0000" channel="esp-504">
+    <title lang="en">The Emirates FA Cup Highlights</title>
+  </programme>
+  <programme start="20260430170000 +0000" stop="20260430173000 +0000" channel="esp-503">
+    <title lang="en">Discovery Golf</title>
+  </programme>
+  <programme start="20260430170000 +0000" stop="20260430173000 +0000" channel="esp-502">
+    <title lang="en">SailGP: Racing on the Edge</title>
+  </programme>
+  <programme start="20260430171500 +0000" stop="20260430181500 +0000" channel="esp-504">
+    <title lang="en">Chelsea - Leeds United | Highlights</title>
+  </programme>
+  <programme start="20260430173000 +0000" stop="20260430210000 +0000" channel="esp-503">
+    <title lang="en">Snooker</title>
+  </programme>
+  <programme start="20260430173000 +0000" stop="20260430180000 +0000" channel="esp-501">
+    <title lang="en">Premier League: The Big Interview</title>
+  </programme>
+  <programme start="20260430173000 +0000" stop="20260430174500 +0000" channel="esp-502">
+    <title lang="en">Premier League Reload</title>
+  </programme>
+  <programme start="20260430174500 +0000" stop="20260430180000 +0000" channel="esp-502">
+    <title lang="en">No Filter Football | Atl&#233;tico Madrid &#8211; Arsenal</title>
+  </programme>
+  <programme start="20260430180000 +0000" stop="20260430214500 +0000" channel="esp-501">
+    <title lang="en">Nottingham Forest - Aston Villa</title>
+  </programme>
+  <programme start="20260430180000 +0000" stop="20260430214500 +0000" channel="esp-599">
+    <title lang="en">Nottingham Forest - Aston Villa</title>
+  </programme>
+  <programme start="20260430180000 +0000" stop="20260430213000 +0000" channel="esp-502">
+    <title lang="en">Shakhtar Donetsk - Crystal Palace</title>
+  </programme>
+  <programme start="20260430180000 +0000" stop="20260430210000 +0000" channel="esp-15009">
+    <title lang="en">Multiview</title>
+  </programme>
+  <programme start="20260430181500 +0000" stop="20260430184500 +0000" channel="esp-504">
+    <title lang="en">Serie A Full Impact</title>
+  </programme>
+  <programme start="20260430184500 +0000" stop="20260430210000 +0000" channel="esp-504">
+    <title lang="en">Braga - SC Freiburg</title>
+  </programme>
+  <programme start="20260430185500 +0000" stop="20260430210000 +0000" channel="esp-20080">
+    <title lang="en">Rayo Vallecano - Strasbourg</title>
+  </programme>
+  <programme start="20260430210000 +0000" stop="20260430223000 +0000" channel="esp-504">
+    <title lang="en">Collingwood - Hawthorn | Highlights</title>
+  </programme>
+  <programme start="20260430210000 +0000" stop="20260430220000 +0000" channel="esp-503">
+    <title lang="en">Tour of T&#252;rkiye | Stage 5 | Highlights</title>
+  </programme>
+  <programme start="20260430213000 +0000" stop="20260430220000 +0000" channel="esp-502">
+    <title lang="en">Serie A Full Impact</title>
+  </programme>
+  <programme start="20260430214500 +0000" stop="20260430221500 +0000" channel="esp-501">
+    <title lang="en">UEFA Europa League and Conference League Highlights</title>
+  </programme>
+  <programme start="20260430220000 +0000" stop="20260430234500 +0000" channel="esp-502">
+    <title lang="en">Football is for Everyone: With Michael Owen</title>
+  </programme>
+  <programme start="20260430220000 +0000" stop="20260430230000 +0000" channel="esp-503">
+    <title lang="en">Tour de Romandie | Stage 2 | Highlights</title>
+  </programme>
+  <programme start="20260430221500 +0000" stop="20260430223000 +0000" channel="esp-501">
+    <title lang="en">No Filter Football | Atl&#233;tico Madrid &#8211; Arsenal</title>
+  </programme>
+  <programme start="20260430223000 +0000" stop="20260501000000 +0000" channel="esp-504">
+    <title lang="en">Ultimate Pool</title>
+  </programme>
+  <programme start="20260430223000 +0000" stop="20260430233000 +0000" channel="esp-501">
+    <title lang="en">MLB Daily Highlights</title>
+  </programme>
+  <programme start="20260430230000 +0000" stop="20260501000000 +0000" channel="esp-503">
+    <title lang="en">MotoGP Highlights</title>
+  </programme>
+  <programme start="20260430233000 +0000" stop="20260501023000 +0000" channel="esp-501">
+    <title lang="en">Toronto Blue Jays @ Minnesota Twins</title>
+  </programme>
+  <programme start="20260430234500 +0000" stop="20260501000000 +0000" channel="esp-502">
+    <title lang="en">Playing For Our Future | Football</title>
+  </programme>
+  <programme start="20260501000000 +0000" stop="20260501020000 +0000" channel="esp-503">
+    <title lang="en">World Championship | Highlights</title>
+  </programme>
+  <programme start="20260501000000 +0000" stop="20260501010000 +0000" channel="esp-502">
+    <title lang="en">Nottingham Forest - Aston Villa</title>
+  </programme>
+  <programme start="20260501000000 +0000" stop="20260501003000 +0000" channel="esp-504">
+    <title lang="en">T100 Triathlon World Tour | Highlights</title>
+  </programme>
+  <programme start="20260501003000 +0000" stop="20260501010000 +0000" channel="esp-504">
+    <title lang="en">UFC Connected</title>
+  </programme>
+  <programme start="20260501010000 +0000" stop="20260501020000 +0000" channel="esp-502">
+    <title lang="en">Braga - SC Freiburg</title>
+  </programme>
+  <programme start="20260501010000 +0000" stop="20260501020000 +0000" channel="esp-504">
+    <title lang="en">WRC Highlights</title>
+  </programme>
+  <programme start="20260501020000 +0000" stop="20260501030000 +0000" channel="esp-502">
+    <title lang="en">Shakhtar Donetsk - Crystal Palace</title>
+  </programme>
+  <programme start="20260501020000 +0000" stop="20260501030000 +0000" channel="esp-504">
+    <title lang="en">On The Bank</title>
+  </programme>
+  <programme start="20260501020000 +0000" stop="20260501030000 +0000" channel="esp-503">
+    <title lang="en">Tour of T&#252;rkiye | Stage 5 | Highlights</title>
+  </programme>
+  <programme start="20260501023000 +0000" stop="20260501041500 +0000" channel="esp-501">
+    <title lang="en">UFC Reloaded</title>
+  </programme>
+  <programme start="20260501030000 +0000" stop="20260501040000 +0000" channel="esp-502">
+    <title lang="en">Rayo Vallecano - Strasbourg</title>
+  </programme>
+  <programme start="20260501030000 +0000" stop="20260501040000 +0000" channel="esp-503">
+    <title lang="en">Tour de Romandie | Stage 2 | Highlights</title>
+  </programme>
+  <programme start="20260501030000 +0000" stop="20260501033000 +0000" channel="esp-504">
+    <title lang="en">TNT Sports Reload</title>
+  </programme>
+  <programme start="20260501033000 +0000" stop="20260501050000 +0000" channel="esp-504">
+    <title lang="en">Collingwood - Hawthorn | Highlights</title>
+  </programme>
+  <programme start="20260501040000 +0000" stop="20260501043000 +0000" channel="esp-503">
+    <title lang="en">FIA Formula E Unplugged</title>
+  </programme>
+  <programme start="20260501043000 +0000" stop="20260501050000 +0000" channel="esp-501">
+    <title lang="en">What I Wore</title>
+  </programme>
+  <programme start="20260501043000 +0000" stop="20260501050000 +0000" channel="esp-503">
+    <title lang="en">FIA Formula E Unplugged</title>
+  </programme>
+  <programme start="20260501043000 +0000" stop="20260501050000 +0000" channel="esp-502">
+    <title lang="en">UEFA Champions League Classics | 2000/01</title>
+  </programme>
+  <programme start="20260501050000 +0000" stop="20260501053000 +0000" channel="esp-504">
+    <title lang="en">The Cycling Show</title>
+  </programme>
+  <programme start="20260501050000 +0000" stop="20260501053000 +0000" channel="esp-501">
+    <title lang="en">UEFA Europa League and Conference League Highlights Show</title>
+  </programme>
+  <programme start="20260501050000 +0000" stop="20260501053000 +0000" channel="esp-502">
+    <title lang="en">T100 Triathlon World Tour | Highlights</title>
+  </programme>
+  <programme start="20260501053000 +0000" stop="20260501063000 +0000" channel="esp-504">
+    <title lang="en">Tour of T&#252;rkiye | Stage 5 | Highlights</title>
+  </programme>
+  <programme start="20260501053000 +0000" stop="20260501060000 +0000" channel="esp-502">
+    <title lang="en">SailGP: Racing on the Edge</title>
+  </programme>
+  <programme start="20260501053000 +0000" stop="20260501060000 +0000" channel="esp-501">
+    <title lang="en">Serie A Full Impact</title>
+  </programme>
+  <programme start="20260501060000 +0000" stop="20260501063000 +0000" channel="esp-501">
+    <title lang="en">UEFA Champions League Highlights Show</title>
+  </programme>
+  <programme start="20260501060000 +0000" stop="20260501061500 +0000" channel="esp-502">
+    <title lang="en">TNT Sports Reload</title>
+  </programme>
+  <programme start="20260501061500 +0000" stop="20260501071500 +0000" channel="esp-502">
+    <title lang="en">MotoGP Highlights</title>
+  </programme>
+  <programme start="20260501063000 +0000" stop="20260501073000 +0000" channel="esp-504">
+    <title lang="en">Tour de Romandie | Stage 2 | Highlights</title>
+  </programme>
+  <programme start="20260501063000 +0000" stop="20260501070000 +0000" channel="esp-501">
+    <title lang="en">UEFA Champions League Highlights Show</title>
+  </programme>
+  <programme start="20260501070000 +0000" stop="20260501090000 +0000" channel="esp-503">
+    <title lang="en">World Championship | Highlights</title>
+  </programme>
+  <programme start="20260501070000 +0000" stop="20260501073000 +0000" channel="esp-501">
+    <title lang="en">UEFA Europa League and Conference League Highlights Show</title>
+  </programme>
+  <programme start="20260501071500 +0000" stop="20260501081500 +0000" channel="esp-502">
+    <title lang="en">WorldSBK Highlights</title>
+  </programme>
+  <programme start="20260501073000 +0000" stop="20260501090000 +0000" channel="esp-504">
+    <title lang="en">UCI Cross-country Short Track World Cup | Women Elite | Yongpyong</title>
+  </programme>
+  <programme start="20260501073000 +0000" stop="20260501085500 +0000" channel="esp-20085">
+    <title lang="en">UCI Cross-country Short Track World Cup | Women Elite | Yongpyong</title>
+  </programme>
+  <programme start="20260501073000 +0000" stop="20260501080000 +0000" channel="esp-501">
+    <title lang="en">Premier League: The Big Interview</title>
+  </programme>
+  <programme start="20260501080000 +0000" stop="20260501081500 +0000" channel="esp-501">
+    <title lang="en">Premier League Reload</title>
+  </programme>
+  <programme start="20260501081500 +0000" stop="20260501091500 +0000" channel="esp-502">
+    <title lang="en">WorldSBK&#8239;| Round 4 | Hungary</title>
+  </programme>
+  <programme start="20260501081500 +0000" stop="20260501083000 +0000" channel="esp-501">
+    <title lang="en">No Filter Football | Atl&#233;tico Madrid &#8211; Arsenal</title>
+  </programme>
+  <programme start="20260501083000 +0000" stop="20260501100000 +0000" channel="esp-501">
+    <title lang="en">Collingwood - Hawthorn | Highlights</title>
+  </programme>
+  <programme start="20260501085500 +0000" stop="20260501095000 +0000" channel="esp-20085">
+    <title lang="en">UCI Cross-country Short Track World Cup | Men Elite | Yongpyong</title>
+  </programme>
+  <programme start="20260501090000 +0000" stop="20260501120000 +0000" channel="esp-503">
+    <title lang="en">Snooker</title>
+  </programme>
+  <programme start="20260501090000 +0000" stop="20260501100000 +0000" channel="esp-504">
+    <title lang="en">UCI Cross-country Short Track World Cup | Men Elite | Yongpyong</title>
+  </programme>
+  <programme start="20260501091500 +0000" stop="20260501123000 +0000" channel="esp-502">
+    <title lang="en">Western Bulldogs - Fremantle</title>
+  </programme>
+  <programme start="20260501094000 +0000" stop="20260501151500 +0000" channel="esp-20081">
+    <title lang="en">Eschborn-Frankfurt</title>
+  </programme>
+  <programme start="20260501100000 +0000" stop="20260501130000 +0000" channel="esp-501">
+    <title lang="en">Adelaide Crows - Port Adelaide </title>
+  </programme>
+  <programme start="20260501100000 +0000" stop="20260501130000 +0000" channel="esp-20080">
+    <title lang="en">Adelaide Crows - Port Adelaide</title>
+  </programme>
+  <programme start="20260501100000 +0000" stop="20260501101000 +0000" channel="esp-504">
+    <title lang="en">TNT Sports Reload</title>
+  </programme>
+  <programme start="20260501101500 +0000" stop="20260501112500 +0000" channel="esp-504">
+    <title lang="en">The Cycle: Becoming a Pro Rider</title>
+  </programme>
+  <programme start="20260501113000 +0000" stop="20260501133000 +0000" channel="esp-20083">
+    <title lang="en">Tour of T&#252;rkiye | Stage 6</title>
+  </programme>
+  <programme start="20260501113000 +0000" stop="20260501132500 +0000" channel="esp-504">
+    <title lang="en">Tour of T&#252;rkiye | Stage 6 </title>
+  </programme>
+  <programme start="20260501120000 +0000" stop="20260501130000 +0000" channel="esp-503">
+    <title lang="en">MLB Daily Highlights</title>
+  </programme>
+  <programme start="20260501123000 +0000" stop="20260501124500 +0000" channel="esp-502">
+    <title lang="en">Football</title>
+  </programme>
+  <programme start="20260501124500 +0000" stop="20260501130000 +0000" channel="esp-502">
+    <title lang="en">WorldSBK Rewind</title>
+  </programme>
+  <programme start="20260501130000 +0000" stop="20260501140000 +0000" channel="esp-502">
+    <title lang="en">WorldSBK&#8239;| Round 4 | Hungary</title>
+  </programme>
+  <programme start="20260501130000 +0000" stop="20260501131500 +0000" channel="esp-503">
+    <title lang="en">TNT Sports Reload</title>
+  </programme>
+  <programme start="20260501130000 +0000" stop="20260501131500 +0000" channel="esp-501">
+    <title lang="en">No Filter Football | Atl&#233;tico Madrid &#8211; Arsenal</title>
+  </programme>
+  <programme start="20260501131500 +0000" stop="20260501163000 +0000" channel="esp-503">
+    <title lang="en">Snooker</title>
+  </programme>
+  <programme start="20260501131500 +0000" stop="20260501163000 +0000" channel="esp-501">
+    <title lang="en">Snooker</title>
+  </programme>
+  <programme start="20260501133000 +0000" stop="20260501134000 +0000" channel="esp-504">
+    <title lang="en">Playing For Our Future | Cycling</title>
+  </programme>
+  <programme start="20260501134500 +0000" stop="20260501160500 +0000" channel="esp-20084">
+    <title lang="en">Tour de Romandie | Stage 3</title>
+  </programme>
+  <programme start="20260501134500 +0000" stop="20260501155500 +0000" channel="esp-504">
+    <title lang="en">Tour de Romandie | Stage 3 </title>
+  </programme>
+  <programme start="20260501135500 +0000" stop="20260501145000 +0000" channel="esp-20095">
+    <title lang="en">Berlin | Free Practice 1</title>
+  </programme>
+  <programme start="20260501140000 +0000" stop="20260501144500 +0000" channel="esp-502">
+    <title lang="en">WorldSSP&#8239;| Round 4 | Hungary</title>
+  </programme>
+  <programme start="20260501144500 +0000" stop="20260501150000 +0000" channel="esp-502">
+    <title lang="en">MotoGP</title>
+  </programme>
+  <programme start="20260501150000 +0000" stop="20260501153000 +0000" channel="esp-502">
+    <title lang="en">Inside Serie A</title>
+  </programme>
+  <programme start="20260501153000 +0000" stop="20260501160000 +0000" channel="esp-502">
+    <title lang="en">UEFA Europa League and Conference League Highlights Show</title>
+  </programme>
+  <programme start="20260501160000 +0000" stop="20260501165500 +0000" channel="esp-504">
+    <title lang="en">Formula E Flashback</title>
+  </programme>
+  <programme start="20260501160000 +0000" stop="20260501163000 +0000" channel="esp-502">
+    <title lang="en">The Fantasy Show</title>
+  </programme>
+  <programme start="20260501163000 +0000" stop="20260501171500 +0000" channel="esp-501">
+    <title lang="en">Sign Up</title>
+  </programme>
+  <programme start="20260501163000 +0000" stop="20260501170000 +0000" channel="esp-502">
+    <title lang="en">MLB Plays of the Week</title>
+  </programme>
+  <programme start="20260501163000 +0000" stop="20260501170000 +0000" channel="esp-503">
+    <title lang="en">The Breakdown</title>
+  </programme>
+  <programme start="20260501164500 +0000" stop="20260501193000 +0000" channel="esp-20101">
+    <title lang="en">FIM Speedway World Cup | Landshut</title>
+  </programme>
+  <programme start="20260501170000 +0000" stop="20260501180000 +0000" channel="esp-502">
+    <title lang="en">MLB Daily Highlights</title>
+  </programme>
+  <programme start="20260501170000 +0000" stop="20260501175500 +0000" channel="esp-504">
+    <title lang="en">Formula E Flashback</title>
+  </programme>
+  <programme start="20260501170000 +0000" stop="20260501173000 +0000" channel="esp-503">
+    <title lang="en">Discovery Golf</title>
   </programme>
 </tv>

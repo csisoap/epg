@@ -254,12 +254,6 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch684_160_115"/>
     <url>http://nowplayer.now.com</url>
   </channel>
-  <programme start="20260429083000 +0000" stop="20260429084500 +0000" channel="ViuTVsix.hk">
-    <title lang="en">Daniel Tiger's Neighbourhood S7 E3</title>
-  </programme>
-  <programme start="20260429084500 +0000" stop="20260429090000 +0000" channel="ViuTVsix.hk">
-    <title lang="en">Daniel Tiger's Neighbourhood S7 E4</title>
-  </programme>
   <programme start="20260429090000 +0000" stop="20260429091500 +0000" channel="ViuTVsix.hk">
     <title lang="en">Monchhichi Tribe S1 E29</title>
   </programme>
@@ -410,9 +404,6 @@
   <programme start="20260430162500 +0000" stop="20260430172000 +0000" channel="ViuTVsix.hk">
     <title lang="en">World&#8217;s Most Scenic Railway Journeys S2 E21</title>
   </programme>
-  <programme start="20260429083000 +0000" stop="20260429090000 +0000" channel="ViuTV.hk">
-    <title lang="en">Hello Carbot S13 E1</title>
-  </programme>
   <programme start="20260429090000 +0000" stop="20260429093000 +0000" channel="ViuTV.hk">
     <title lang="en">Super BOOMi S7 E8</title>
   </programme>
@@ -562,9 +553,6 @@
   </programme>
   <programme start="20260430153500 +0000" stop="20260430163000 +0000" channel="ViuTV.hk">
     <title lang="en">Where does the Sea Begin (Bilingual) E12</title>
-  </programme>
-  <programme start="20260429080000 +0000" stop="20260429090000 +0000" channel="ViuChannel.hk">
-    <title lang="en">Cold Blooded Intern (Bilingual) E2</title>
   </programme>
   <programme start="20260429090000 +0000" stop="20260429100000 +0000" channel="ViuChannel.hk">
     <title lang="en">Love Me (Bilingual) E14</title>
@@ -917,9 +905,6 @@
   <programme start="20260430150000 +0000" stop="20260430164500 +0000" channel="HBOHits.hk">
     <title lang="en">High Rollers</title>
   </programme>
-  <programme start="20260429083000 +0000" stop="20260429085000 +0000" channel="HBOFamily.hk">
-    <title lang="en">Summer Camp Island S1E27 -The Haunted Campfire</title>
-  </programme>
   <programme start="20260429085000 +0000" stop="20260429090200 +0000" channel="HBOFamily.hk">
     <title lang="en">My Gym Partner's A Monkey S2E23 -Talking Teddy</title>
   </programme>
@@ -1124,9 +1109,6 @@
   <programme start="20260430150500 +0000" stop="20260430164000 +0000" channel="HBOFamily.hk">
     <title lang="en">Austin Powers In Goldmember</title>
   </programme>
-  <programme start="20260429080500 +0000" stop="20260429083500 +0000" channel="Cinemax.hk">
-    <title lang="en">Hollywood On Set S1E1166</title>
-  </programme>
   <programme start="20260429083500 +0000" stop="20260429104500 +0000" channel="Cinemax.hk">
     <title lang="en">Shazam!</title>
   </programme>
@@ -1246,9 +1228,6 @@
   </programme>
   <programme start="20260430154000 +0000" stop="20260430163000 +0000" channel="HBOSignature.hk">
     <title lang="en">Death By Fame S2E7 -A Rising Star Shot Down</title>
-  </programme>
-  <programme start="20260429064500 +0000" stop="20260429084500 +0000" channel="HBO.hk">
-    <title lang="en">Chocolat</title>
   </programme>
   <programme start="20260429084500 +0000" stop="20260429102500 +0000" channel="HBO.hk">
     <title lang="en">Despicable Me 2</title>
@@ -1741,9 +1720,6 @@
   </programme>
   <programme start="20260430160000 +0000" stop="20260430180000 +0000" channel="nowSports618.hk">
     <title lang="en">FIFA World Cup 2022&#8482; -Brazil vs Serbia</title>
-  </programme>
-  <programme start="20260429080000 +0000" stop="20260429090000 +0000" channel="nowSportsPremierLeague.hk">
-    <title lang="en">PL REVIEW E34</title>
   </programme>
   <programme start="20260429090000 +0000" stop="20260429093000 +0000" channel="nowSportsPremierLeague.hk">
     <title lang="en">THE BIG INTERVIEW -DIEGO GOMEZ</title>
@@ -2315,9 +2291,6 @@
   <programme start="20260430160000 +0000" stop="20260430210000 +0000" channel="nowSports1.hk">
     <title lang="en">BWF Thomas  Uber Cup Finals 2026 -Uber Cup QF (4)[Live]</title>
   </programme>
-  <programme start="20260429070000 +0000" stop="20260429090000 +0000" channel="nowSports2.hk">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD32 -RCD Espanyol vs Levante UD</title>
-  </programme>
   <programme start="20260429090000 +0000" stop="20260429110000 +0000" channel="nowSports2.hk">
     <title lang="en">LALIGA EA SPORTS 2025/2026 MD32 -Real Betis vs Real Madrid</title>
   </programme>
@@ -2621,9 +2594,6 @@
   <programme start="20260430161500 +0000" stop="20260430163000 +0000" channel="nowSports4.hk">
     <title lang="en">Century Break 2026 E85</title>
   </programme>
-  <programme start="20260429073000 +0000" stop="20260429090000 +0000" channel="nowSports5.hk">
-    <title lang="en">Malaysian NSL '26 E14 -Perak Phoenix v Selangor Angels</title>
-  </programme>
   <programme start="20260429090000 +0000" stop="20260429110000 +0000" channel="nowSports5.hk">
     <title lang="en">Serie A Women 25/26 E57 -Ternana v Fiorentina</title>
   </programme>
@@ -2843,12 +2813,6 @@
   <programme start="20260430160000 +0000" stop="20260430170000 +0000" channel="nowSports6.hk">
     <title lang="en">ATP 26 H/Ls -Rolex Monte-Carlo Masters</title>
   </programme>
-  <programme start="20260429083000 +0000" stop="20260429084500 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E95</title>
-  </programme>
-  <programme start="20260429084500 +0000" stop="20260429090000 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E96</title>
-  </programme>
   <programme start="20260429090000 +0000" stop="20260429123000 +0000" channel="nowSports7.hk">
     <title lang="en">World Snooker Championship 2026 -QFs(4) - Allen vs Hawkins[Live]</title>
   </programme>
@@ -2971,9 +2935,6 @@
   </programme>
   <programme start="20260430161500 +0000" stop="20260430163000 +0000" channel="nowSports7.hk">
     <title lang="en">Century Break 2026 E83</title>
-  </programme>
-  <programme start="20260429082000 +0000" stop="20260429085000 +0000" channel="beinSports1.hk">
-    <title lang="en">LFCTV Specials 2025/26 E14 -Review show: Everton</title>
   </programme>
   <programme start="20260429085000 +0000" stop="20260429104000 +0000" channel="beinSports1.hk">
     <title lang="en">Ligue 1 2025/26 E271 -Brest vs Lens</title>
@@ -3136,9 +3097,6 @@
   </programme>
   <programme start="20260430162000 +0000" stop="20260430172000 +0000" channel="beinSports2.hk">
     <title lang="en">FIA European Rally Championship 2026 -Rally Sierra Morena SS10 Villanueva Del Rey 1</title>
-  </programme>
-  <programme start="20260429083000 +0000" stop="20260429090000 +0000" channel="MUTV.hk">
-    <title lang="en">U18s Highlights 25/26 E26 -Sunderland v United</title>
   </programme>
   <programme start="20260429090000 +0000" stop="20260429100000 +0000" channel="MUTV.hk">
     <title lang="en">The Official Utd Podcast E184 -Inside Carrington Podcast</title>

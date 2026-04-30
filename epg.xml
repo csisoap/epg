@@ -274,27 +274,6 @@
     <display-name lang="en">TNT Sports UHD ULTIMATE</display-name>
     <url>https://www.tntsports.co.uk</url>
   </channel>
-  <programme start="20260429161500 +0000" stop="20260429171500 +0000" channel="ViuTVsix.hk">
-    <title lang="en">World&#8217;s Most Scenic Railway Journeys S2 E20</title>
-  </programme>
-  <programme start="20260429171500 +0000" stop="20260429181500 +0000" channel="ViuTVsix.hk">
-    <title lang="en">History's Greatest Mysteries S3 E9 -THE VOYNICH MANUSCRIPT</title>
-  </programme>
-  <programme start="20260429181500 +0000" stop="20260430010000 +0000" channel="ViuTVsix.hk">
-    <title lang="en">ViuTVsix Station Closing Slate</title>
-  </programme>
-  <programme start="20260430010000 +0000" stop="20260430011500 +0000" channel="ViuTVsix.hk">
-    <title lang="en">Daniel Tiger's Neighbourhood S7 E3</title>
-  </programme>
-  <programme start="20260430011500 +0000" stop="20260430013000 +0000" channel="ViuTVsix.hk">
-    <title lang="en">Daniel Tiger's Neighbourhood S7 E4</title>
-  </programme>
-  <programme start="20260430013000 +0000" stop="20260430014500 +0000" channel="ViuTVsix.hk">
-    <title lang="en">Monchhichi Tribe S1 E29</title>
-  </programme>
-  <programme start="20260430014500 +0000" stop="20260430020000 +0000" channel="ViuTVsix.hk">
-    <title lang="en">Monchhichi Tribe S1 E30</title>
-  </programme>
   <programme start="20260430020000 +0000" stop="20260430024500 +0000" channel="ViuTVsix.hk">
     <title lang="en">The Summit Australia E12</title>
   </programme>
@@ -471,36 +450,6 @@
   </programme>
   <programme start="20260501154500 +0000" stop="20260501164000 +0000" channel="ViuTVsix.hk">
     <title lang="en">The Real Serpent: Investigating a Serial Killer E3</title>
-  </programme>
-  <programme start="20260429170000 +0000" stop="20260429173000 +0000" channel="ViuTV.hk">
-    <title lang="en">FWD Presents: CHILL CLUB Song Promotion E1536</title>
-  </programme>
-  <programme start="20260429173000 +0000" stop="20260429183000 +0000" channel="ViuTV.hk">
-    <title lang="en">Delivery Man E4</title>
-  </programme>
-  <programme start="20260429183000 +0000" stop="20260429190000 +0000" channel="ViuTV.hk">
-    <title lang="en">Late News</title>
-  </programme>
-  <programme start="20260429190000 +0000" stop="20260429200000 +0000" channel="ViuTV.hk">
-    <title lang="en">German Pool Presents: A Hundred Memories E9</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429202500 +0000" channel="ViuTV.hk">
-    <title lang="en">Talker - Foodie Talkies E320 -&#28271;</title>
-  </programme>
-  <programme start="20260429202500 +0000" stop="20260429203000 +0000" channel="ViuTV.hk">
-    <title lang="en">3 mins Enews E1352</title>
-  </programme>
-  <programme start="20260429203000 +0000" stop="20260429210000 +0000" channel="ViuTV.hk">
-    <title lang="en">FWD Presents: CHILL CLUB Song Promotion E1536</title>
-  </programme>
-  <programme start="20260429210000 +0000" stop="20260429220000 +0000" channel="ViuTV.hk">
-    <title lang="en">The Rise of Ning E39</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260430010000 +0000" channel="ViuTV.hk">
-    <title lang="en">Morning News</title>
-  </programme>
-  <programme start="20260430010000 +0000" stop="20260430013000 +0000" channel="ViuTV.hk">
-    <title lang="en">The Culture Book E57 -Art Basel (I)</title>
   </programme>
   <programme start="20260430013000 +0000" stop="20260430030000 +0000" channel="ViuTV.hk">
     <title lang="en">Trading Hour</title>
@@ -688,33 +637,6 @@
   <programme start="20260501153500 +0000" stop="20260501163000 +0000" channel="ViuTV.hk">
     <title lang="en">Sky Castle (Bilingual) E1</title>
   </programme>
-  <programme start="20260429170000 +0000" stop="20260429180000 +0000" channel="ViuChannel.hk">
-    <title lang="en">Cold Blooded Intern (Bilingual) E3</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429190000 +0000" channel="ViuChannel.hk">
-    <title lang="en">Love Me (Bilingual) E15</title>
-  </programme>
-  <programme start="20260429190000 +0000" stop="20260429200000 +0000" channel="ViuChannel.hk">
-    <title lang="en">Moon River (Bilingual) E10</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429210000 +0000" channel="ViuChannel.hk">
-    <title lang="en">Delightfully Deceitful (Bilingual) E22</title>
-  </programme>
-  <programme start="20260429210000 +0000" stop="20260429220000 +0000" channel="ViuChannel.hk">
-    <title lang="en">Miraculous Brothers (Bilingual) E18</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260429230000 +0000" channel="ViuChannel.hk">
-    <title lang="en">Cold Blooded Intern (Bilingual) E3</title>
-  </programme>
-  <programme start="20260429230000 +0000" stop="20260430000000 +0000" channel="ViuChannel.hk">
-    <title lang="en">Love Me (Bilingual) E15</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430010000 +0000" channel="ViuChannel.hk">
-    <title lang="en">Moon River (Bilingual) E10</title>
-  </programme>
-  <programme start="20260430010000 +0000" stop="20260430020000 +0000" channel="ViuChannel.hk">
-    <title lang="en">Delightfully Deceitful (Bilingual) E22</title>
-  </programme>
   <programme start="20260430020000 +0000" stop="20260430030000 +0000" channel="ViuChannel.hk">
     <title lang="en">Miraculous Brothers (Bilingual) E18</title>
   </programme>
@@ -834,33 +756,6 @@
   </programme>
   <programme start="20260501160000 +0000" stop="20260501170000 +0000" channel="ViuChannel.hk">
     <title lang="en">Miraculous Brothers (Bilingual) E20</title>
-  </programme>
-  <programme start="20260429163000 +0000" stop="20260429173000 +0000" channel="nowChineseDramaChannel.hk">
-    <title lang="en">The Ordinary Road E16</title>
-  </programme>
-  <programme start="20260429173000 +0000" stop="20260429183000 +0000" channel="nowChineseDramaChannel.hk">
-    <title lang="en">Strange Tales of Tang Dynasty III: To Chang'an E19</title>
-  </programme>
-  <programme start="20260429183000 +0000" stop="20260429193000 +0000" channel="nowChineseDramaChannel.hk">
-    <title lang="en">Shining For One Thing E24</title>
-  </programme>
-  <programme start="20260429193000 +0000" stop="20260429203000 +0000" channel="nowChineseDramaChannel.hk">
-    <title lang="en">Falling Into You E17</title>
-  </programme>
-  <programme start="20260429203000 +0000" stop="20260429213000 +0000" channel="nowChineseDramaChannel.hk">
-    <title lang="en">Strange Tales of Tang Dynasty III: To Chang'an E19</title>
-  </programme>
-  <programme start="20260429213000 +0000" stop="20260429223000 +0000" channel="nowChineseDramaChannel.hk">
-    <title lang="en">Shining For One Thing E24</title>
-  </programme>
-  <programme start="20260429223000 +0000" stop="20260429233000 +0000" channel="nowChineseDramaChannel.hk">
-    <title lang="en">Love like the Galaxy E19</title>
-  </programme>
-  <programme start="20260429233000 +0000" stop="20260430003000 +0000" channel="nowChineseDramaChannel.hk">
-    <title lang="en">The Ordinary Road E16</title>
-  </programme>
-  <programme start="20260430003000 +0000" stop="20260430013000 +0000" channel="nowChineseDramaChannel.hk">
-    <title lang="en">Shining For One Thing E24</title>
   </programme>
   <programme start="20260430013000 +0000" stop="20260430023000 +0000" channel="nowChineseDramaChannel.hk">
     <title lang="en">Love like the Galaxy E19</title>
@@ -982,24 +877,6 @@
   <programme start="20260501153000 +0000" stop="20260501163000 +0000" channel="nowChineseDramaChannel.hk">
     <title lang="en">Love like the Galaxy E21</title>
   </programme>
-  <programme start="20260429160000 +0000" stop="20260429173000 +0000" channel="nowJelli.hk">
-    <title lang="en">Perfect Match E27 -&#20778;&#36074;&#30007;&#22025;&#36051;&#25509;&#36899;&#30331;&#22580;</title>
-  </programme>
-  <programme start="20260429173000 +0000" stop="20260429193000 +0000" channel="nowJelli.hk">
-    <title lang="en">Live and Love Season 2 E10 -&#20184;&#20986;&#30340;&#30495;&#24515;&#35722;&#31505;&#35441;&#65311;</title>
-  </programme>
-  <programme start="20260429193000 +0000" stop="20260429213000 +0000" channel="nowJelli.hk">
-    <title lang="en">Travel With The Royal Family E7 -&#23064;&#23064;&#22296;&#38598;&#39636;&#22238;&#25014;&#30070;&#24180;&#25293;&#25138;&#24149;&#24460;</title>
-  </programme>
-  <programme start="20260429213000 +0000" stop="20260429220000 +0000" channel="nowJelli.hk">
-    <title lang="en">Memory of the Taste E8</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260430000000 +0000" channel="nowJelli.hk">
-    <title lang="en">Relationship Season 3 E5 -&#33268;&#19971;&#22805;</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430013000 +0000" channel="nowJelli.hk">
-    <title lang="en">Perfect Match E46</title>
-  </programme>
   <programme start="20260430013000 +0000" stop="20260430030000 +0000" channel="nowJelli.hk">
     <title lang="en">We Are In Love S3E11 -&#26126;&#36947;&#24118;&#29579;&#40407;&#35211;&#29238;&#27597;</title>
   </programme>
@@ -1105,24 +982,6 @@
   <programme start="20260501160000 +0000" stop="20260501180000 +0000" channel="nowJelli.hk">
     <title lang="en">Wander Together E8 -&#26481;&#21271;&#20912;&#38634;&#36938;&#25138;&#22823;&#20098;&#39717;</title>
   </programme>
-  <programme start="20260429150000 +0000" stop="20260429171000 +0000" channel="HBOHits.hk">
-    <title lang="en">Pacific Rim</title>
-  </programme>
-  <programme start="20260429171000 +0000" stop="20260429184500 +0000" channel="HBOHits.hk">
-    <title lang="en">Drop</title>
-  </programme>
-  <programme start="20260429184500 +0000" stop="20260429203000 +0000" channel="HBOHits.hk">
-    <title lang="en">Mountainhead</title>
-  </programme>
-  <programme start="20260429203000 +0000" stop="20260429205500 +0000" channel="HBOHits.hk">
-    <title lang="en">Hollywood On Set S1E1164</title>
-  </programme>
-  <programme start="20260429205500 +0000" stop="20260429230000 +0000" channel="HBOHits.hk">
-    <title lang="en">Warcraft</title>
-  </programme>
-  <programme start="20260429230000 +0000" stop="20260430004000 +0000" channel="HBOHits.hk">
-    <title lang="en">Caddo Lake</title>
-  </programme>
   <programme start="20260430004000 +0000" stop="20260430022500 +0000" channel="HBOHits.hk">
     <title lang="en">No Reservations</title>
   </programme>
@@ -1191,93 +1050,6 @@
   </programme>
   <programme start="20260501150000 +0000" stop="20260501170500 +0000" channel="HBOHits.hk">
     <title lang="en">Smile 2</title>
-  </programme>
-  <programme start="20260429163000 +0000" stop="20260429171500 +0000" channel="HBOFamily.hk">
-    <title lang="en">Ruby And The Well S1E1 -I Wish He Were Still Here</title>
-  </programme>
-  <programme start="20260429171500 +0000" stop="20260429172600 +0000" channel="HBOFamily.hk">
-    <title lang="en">Uncle Grandpa S1E4 -Tiger Trails</title>
-  </programme>
-  <programme start="20260429172600 +0000" stop="20260429173700 +0000" channel="HBOFamily.hk">
-    <title lang="en">Uncle Grandpa S1E5 -Moustache Cream</title>
-  </programme>
-  <programme start="20260429173700 +0000" stop="20260429174800 +0000" channel="HBOFamily.hk">
-    <title lang="en">Uncle Grandpa S1E6 -Nickname</title>
-  </programme>
-  <programme start="20260429174800 +0000" stop="20260429175900 +0000" channel="HBOFamily.hk">
-    <title lang="en">Uncle Grandpa S1E7 -Afraid Of The Dark</title>
-  </programme>
-  <programme start="20260429175900 +0000" stop="20260429181500 +0000" channel="HBOFamily.hk">
-    <title lang="en">Uncle Grandpa S1E8 -Driver's Test</title>
-  </programme>
-  <programme start="20260429181500 +0000" stop="20260429192000 +0000" channel="HBOFamily.hk">
-    <title lang="en">Top Chef S16E15 -Finale</title>
-  </programme>
-  <programme start="20260429192000 +0000" stop="20260429193000 +0000" channel="HBOFamily.hk">
-    <title lang="en">Summer Camp Island S1E23 -Radio Silence</title>
-  </programme>
-  <programme start="20260429193000 +0000" stop="20260429194000 +0000" channel="HBOFamily.hk">
-    <title lang="en">Summer Camp Island S1E24 -Mop Forever</title>
-  </programme>
-  <programme start="20260429194000 +0000" stop="20260429195000 +0000" channel="HBOFamily.hk">
-    <title lang="en">Summer Camp Island S1E25 -Sneeze Guard</title>
-  </programme>
-  <programme start="20260429195000 +0000" stop="20260429200000 +0000" channel="HBOFamily.hk">
-    <title lang="en">Summer Camp Island S1E26 -Puff Paint</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429202000 +0000" channel="HBOFamily.hk">
-    <title lang="en">Summer Camp Island S1E27 -The Haunted Campfire</title>
-  </programme>
-  <programme start="20260429202000 +0000" stop="20260429203200 +0000" channel="HBOFamily.hk">
-    <title lang="en">My Gym Partner's A Monkey S2E23 -Talking Teddy</title>
-  </programme>
-  <programme start="20260429203200 +0000" stop="20260429204400 +0000" channel="HBOFamily.hk">
-    <title lang="en">My Gym Partner's A Monkey S2E24 -Uniformity</title>
-  </programme>
-  <programme start="20260429204400 +0000" stop="20260429210000 +0000" channel="HBOFamily.hk">
-    <title lang="en">My Gym Partner's A Monkey S2E25 -Pants In Space</title>
-  </programme>
-  <programme start="20260429210000 +0000" stop="20260429211200 +0000" channel="HBOFamily.hk">
-    <title lang="en">My Gym Partner's A Monkey S1E1 -Shark Attack</title>
-  </programme>
-  <programme start="20260429211200 +0000" stop="20260429212400 +0000" channel="HBOFamily.hk">
-    <title lang="en">My Gym Partner's A Monkey S1E2 -Me Adam, You Jake</title>
-  </programme>
-  <programme start="20260429212400 +0000" stop="20260429214500 +0000" channel="HBOFamily.hk">
-    <title lang="en">My Gym Partner's A Monkey S1E3 -Lyon Of Scrimmage</title>
-  </programme>
-  <programme start="20260429214500 +0000" stop="20260429232000 +0000" channel="HBOFamily.hk">
-    <title lang="en">Austin Powers In Goldmember</title>
-  </programme>
-  <programme start="20260429232000 +0000" stop="20260429233100 +0000" channel="HBOFamily.hk">
-    <title lang="en">Uncle Grandpa S1E4 -Tiger Trails</title>
-  </programme>
-  <programme start="20260429233100 +0000" stop="20260429234200 +0000" channel="HBOFamily.hk">
-    <title lang="en">Uncle Grandpa S1E5 -Moustache Cream</title>
-  </programme>
-  <programme start="20260429234200 +0000" stop="20260429235300 +0000" channel="HBOFamily.hk">
-    <title lang="en">Uncle Grandpa S1E6 -Nickname</title>
-  </programme>
-  <programme start="20260429235300 +0000" stop="20260430000400 +0000" channel="HBOFamily.hk">
-    <title lang="en">Uncle Grandpa S1E7 -Afraid Of The Dark</title>
-  </programme>
-  <programme start="20260430000400 +0000" stop="20260430002000 +0000" channel="HBOFamily.hk">
-    <title lang="en">Uncle Grandpa S1E8 -Driver's Test</title>
-  </programme>
-  <programme start="20260430002000 +0000" stop="20260430003000 +0000" channel="HBOFamily.hk">
-    <title lang="en">Summer Camp Island S1E23 -Radio Silence</title>
-  </programme>
-  <programme start="20260430003000 +0000" stop="20260430004000 +0000" channel="HBOFamily.hk">
-    <title lang="en">Summer Camp Island S1E24 -Mop Forever</title>
-  </programme>
-  <programme start="20260430004000 +0000" stop="20260430005000 +0000" channel="HBOFamily.hk">
-    <title lang="en">Summer Camp Island S1E25 -Sneeze Guard</title>
-  </programme>
-  <programme start="20260430005000 +0000" stop="20260430010000 +0000" channel="HBOFamily.hk">
-    <title lang="en">Summer Camp Island S1E26 -Puff Paint</title>
-  </programme>
-  <programme start="20260430010000 +0000" stop="20260430012000 +0000" channel="HBOFamily.hk">
-    <title lang="en">Summer Camp Island S1E27 -The Haunted Campfire</title>
   </programme>
   <programme start="20260430012000 +0000" stop="20260430022500 +0000" channel="HBOFamily.hk">
     <title lang="en">Top Chef S16E15 -Finale</title>
@@ -1492,18 +1264,6 @@
   <programme start="20260501155500 +0000" stop="20260501175000 +0000" channel="HBOFamily.hk">
     <title lang="en">Footloose</title>
   </programme>
-  <programme start="20260429170000 +0000" stop="20260429185500 +0000" channel="Cinemax.hk">
-    <title lang="en">Depravity</title>
-  </programme>
-  <programme start="20260429185500 +0000" stop="20260429204500 +0000" channel="Cinemax.hk">
-    <title lang="en">The Bikeriders</title>
-  </programme>
-  <programme start="20260429204500 +0000" stop="20260429220500 +0000" channel="Cinemax.hk">
-    <title lang="en">Paranormal Activity: The Marked Ones</title>
-  </programme>
-  <programme start="20260429220500 +0000" stop="20260429235000 +0000" channel="Cinemax.hk">
-    <title lang="en">Wild Wild West</title>
-  </programme>
   <programme start="20260429235000 +0000" stop="20260430025500 +0000" channel="Cinemax.hk">
     <title lang="en">King Kong</title>
   </programme>
@@ -1572,24 +1332,6 @@
   </programme>
   <programme start="20260501153500 +0000" stop="20260501173500 +0000" channel="Cinemax.hk">
     <title lang="en">Warcraft</title>
-  </programme>
-  <programme start="20260429153000 +0000" stop="20260429175000 +0000" channel="HBOSignature.hk">
-    <title lang="en">In The Heights</title>
-  </programme>
-  <programme start="20260429175000 +0000" stop="20260429193000 +0000" channel="HBOSignature.hk">
-    <title lang="en">An American Bombing - The Road To April 19Th</title>
-  </programme>
-  <programme start="20260429193000 +0000" stop="20260429202500 +0000" channel="HBOSignature.hk">
-    <title lang="en">The Leftovers S2E3 -Off Ramp</title>
-  </programme>
-  <programme start="20260429202500 +0000" stop="20260429220500 +0000" channel="HBOSignature.hk">
-    <title lang="en">Friendship</title>
-  </programme>
-  <programme start="20260429220500 +0000" stop="20260429233500 +0000" channel="HBOSignature.hk">
-    <title lang="en">Black Bag</title>
-  </programme>
-  <programme start="20260429233500 +0000" stop="20260430011500 +0000" channel="HBOSignature.hk">
-    <title lang="en">Get Out</title>
   </programme>
   <programme start="20260430011500 +0000" stop="20260430021000 +0000" channel="HBOSignature.hk">
     <title lang="en">The Leftovers S2E4 -Orange Sticker</title>
@@ -1669,24 +1411,6 @@
   <programme start="20260501161500 +0000" stop="20260501164500 +0000" channel="HBOSignature.hk">
     <title lang="en">Rooster S1E8</title>
   </programme>
-  <programme start="20260429164000 +0000" stop="20260429174000 +0000" channel="HBO.hk">
-    <title lang="en">Euphoria S3E3</title>
-  </programme>
-  <programme start="20260429174000 +0000" stop="20260429181000 +0000" channel="HBO.hk">
-    <title lang="en">Rooster S1E8</title>
-  </programme>
-  <programme start="20260429181000 +0000" stop="20260429184000 +0000" channel="HBO.hk">
-    <title lang="en">The Comeback S3E6</title>
-  </programme>
-  <programme start="20260429184000 +0000" stop="20260429201000 +0000" channel="HBO.hk">
-    <title lang="en">Final Destination 3</title>
-  </programme>
-  <programme start="20260429201000 +0000" stop="20260429214000 +0000" channel="HBO.hk">
-    <title lang="en">Y2K</title>
-  </programme>
-  <programme start="20260429214000 +0000" stop="20260429235000 +0000" channel="HBO.hk">
-    <title lang="en">Jurassic Park</title>
-  </programme>
   <programme start="20260429235000 +0000" stop="20260430020500 +0000" channel="HBO.hk">
     <title lang="en">The Lord Of The Rings: The War Of The Rohirrim</title>
   </programme>
@@ -1762,18 +1486,6 @@
   <programme start="20260501155000 +0000" stop="20260501172000 +0000" channel="HBO.hk">
     <title lang="en">Him</title>
   </programme>
-  <programme start="20260429160500 +0000" stop="20260429175500 +0000" channel="movieMovie.hk">
-    <title lang="en">Psycho</title>
-  </programme>
-  <programme start="20260429175500 +0000" stop="20260429200500 +0000" channel="movieMovie.hk">
-    <title lang="en">The Weasel's Tale</title>
-  </programme>
-  <programme start="20260429200500 +0000" stop="20260429220500 +0000" channel="movieMovie.hk">
-    <title lang="en">Train To Busan</title>
-  </programme>
-  <programme start="20260429220500 +0000" stop="20260430002500 +0000" channel="movieMovie.hk">
-    <title lang="en">Annette</title>
-  </programme>
   <programme start="20260430002500 +0000" stop="20260430023000 +0000" channel="movieMovie.hk">
     <title lang="en">Maria</title>
   </programme>
@@ -1836,24 +1548,6 @@
   </programme>
   <programme start="20260501161000 +0000" stop="20260501174000 +0000" channel="movieMovie.hk">
     <title lang="en">47 Meters Down: Uncaged</title>
-  </programme>
-  <programme start="20260429160500 +0000" stop="20260429180000 +0000" channel="nowBaoguMovies.hk">
-    <title lang="en">Tales From The Occult</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429194500 +0000" channel="nowBaoguMovies.hk">
-    <title lang="en">A Light Never Goes Out</title>
-  </programme>
-  <programme start="20260429194500 +0000" stop="20260429195500 +0000" channel="nowBaoguMovies.hk">
-    <title lang="en">Baogu At the Movie E210 -I Did It My Way</title>
-  </programme>
-  <programme start="20260429195500 +0000" stop="20260429215000 +0000" channel="nowBaoguMovies.hk">
-    <title lang="en">I DID IT MY WAY</title>
-  </programme>
-  <programme start="20260429215000 +0000" stop="20260429235000 +0000" channel="nowBaoguMovies.hk">
-    <title lang="en">The Pioneer</title>
-  </programme>
-  <programme start="20260429235000 +0000" stop="20260430015000 +0000" channel="nowBaoguMovies.hk">
-    <title lang="en">After School</title>
   </programme>
   <programme start="20260430015000 +0000" stop="20260430020500 +0000" channel="nowBaoguMovies.hk">
     <title lang="en">Baogu At the Movie E260 -Dongji Rescue</title>
@@ -1942,21 +1636,6 @@
   <programme start="20260501160000 +0000" stop="20260501175500 +0000" channel="nowBaoguMovies.hk">
     <title lang="en">Initial D</title>
   </programme>
-  <programme start="20260429162000 +0000" stop="20260429181500 +0000" channel="nowBaoguSuperstars.hk">
-    <title lang="en">Armageddon</title>
-  </programme>
-  <programme start="20260429181500 +0000" stop="20260429200000 +0000" channel="nowBaoguSuperstars.hk">
-    <title lang="en">Knockabout</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429214000 +0000" channel="nowBaoguSuperstars.hk">
-    <title lang="en">A Chinese Ghost Story</title>
-  </programme>
-  <programme start="20260429214000 +0000" stop="20260429231000 +0000" channel="nowBaoguSuperstars.hk">
-    <title lang="en">Seven Years Itch</title>
-  </programme>
-  <programme start="20260429231000 +0000" stop="20260430010000 +0000" channel="nowBaoguSuperstars.hk">
-    <title lang="en">Tricky Brains</title>
-  </programme>
   <programme start="20260430010000 +0000" stop="20260430024000 +0000" channel="nowBaoguSuperstars.hk">
     <title lang="en">And I Hate You So</title>
   </programme>
@@ -2035,21 +1714,6 @@
   <programme start="20260501162000 +0000" stop="20260501175500 +0000" channel="nowBaoguSuperstars.hk">
     <title lang="en">Blue Lightning</title>
   </programme>
-  <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="nowSports4K1.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="nowSports4K1.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="nowSports4K1.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260430000000 +0000" channel="nowSports4K1.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430020000 +0000" channel="nowSports4K1.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20260430020000 +0000" stop="20260430040000 +0000" channel="nowSports4K1.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -2111,21 +1775,6 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20260501160000 +0000" stop="20260501180000 +0000" channel="nowSports4K1.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="nowSports4K2.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="nowSports4K2.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="nowSports4K2.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260430000000 +0000" channel="nowSports4K2.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430020000 +0000" channel="nowSports4K2.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20260430020000 +0000" stop="20260430040000 +0000" channel="nowSports4K2.hk">
@@ -2191,21 +1840,6 @@
   <programme start="20260501160000 +0000" stop="20260501180000 +0000" channel="nowSports4K2.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="nowSports4K3.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="nowSports4K3.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="nowSports4K3.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260430000000 +0000" channel="nowSports4K3.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430020000 +0000" channel="nowSports4K3.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20260430020000 +0000" stop="20260430040000 +0000" channel="nowSports4K3.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -2268,21 +1902,6 @@
   </programme>
   <programme start="20260501160000 +0000" stop="20260501180000 +0000" channel="nowSports4K3.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="nowSports618.hk">
-    <title lang="en">FIFA World Cup 2022&#8482; -Wales vs Iran</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="nowSports618.hk">
-    <title lang="en">FIFA World Cup 2022&#8482; -Cameroon vs Serbia</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="nowSports618.hk">
-    <title lang="en">FIFA World Cup 2022&#8482; -Costa Rica vs Germany</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260429223000 +0000" channel="nowSports618.hk">
-    <title lang="en">FIFA World Cup - Stories from the Cities -San Francisco</title>
-  </programme>
-  <programme start="20260429223000 +0000" stop="20260430003000 +0000" channel="nowSports618.hk">
-    <title lang="en">FIFA World Cup 2022&#8482; -Qatar vs Ecuador</title>
   </programme>
   <programme start="20260430003000 +0000" stop="20260430023000 +0000" channel="nowSports618.hk">
     <title lang="en">FIFA World Cup 2022&#8482; -Germany vs Japan</title>
@@ -2364,45 +1983,6 @@
   </programme>
   <programme start="20260501160000 +0000" stop="20260501180000 +0000" channel="nowSports618.hk">
     <title lang="en">FIFA World Cup 2022&#8482; -England vs United States</title>
-  </programme>
-  <programme start="20260429170000 +0000" stop="20260429173000 +0000" channel="nowSportsPremierLeague.hk">
-    <title lang="en">PL STORIES -DIMITAR BERBATOV</title>
-  </programme>
-  <programme start="20260429173000 +0000" stop="20260429180000 +0000" channel="nowSportsPremierLeague.hk">
-    <title lang="en">PL REWIND -ROB GREEN: WEST HAM 06/07</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429190000 +0000" channel="nowSportsPremierLeague.hk">
-    <title lang="en">1-TO-11 -GABRIEL AGBONLAHOR</title>
-  </programme>
-  <programme start="20260429190000 +0000" stop="20260429200000 +0000" channel="nowSportsPremierLeague.hk">
-    <title lang="en">THE CATCH-UP SHOW E37</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429203000 +0000" channel="nowSportsPremierLeague.hk">
-    <title lang="en">PL STORIES -NORWEGIAN STRIKERS</title>
-  </programme>
-  <programme start="20260429203000 +0000" stop="20260429210000 +0000" channel="nowSportsPremierLeague.hk">
-    <title lang="en">THE BIG INTERVIEW -DIEGO GOMEZ</title>
-  </programme>
-  <programme start="20260429210000 +0000" stop="20260429213000 +0000" channel="nowSportsPremierLeague.hk">
-    <title lang="en">NETBUSTERS E34</title>
-  </programme>
-  <programme start="20260429213000 +0000" stop="20260429220000 +0000" channel="nowSportsPremierLeague.hk">
-    <title lang="en">PL EXTRA TIME</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260429223000 +0000" channel="nowSportsPremierLeague.hk">
-    <title lang="en">PL STORIES -DIMITAR BERBATOV</title>
-  </programme>
-  <programme start="20260429223000 +0000" stop="20260429230000 +0000" channel="nowSportsPremierLeague.hk">
-    <title lang="en">PL REWIND -ROB GREEN: WEST HAM 06/07</title>
-  </programme>
-  <programme start="20260429230000 +0000" stop="20260430000000 +0000" channel="nowSportsPremierLeague.hk">
-    <title lang="en">PL REVIEW E34</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430010000 +0000" channel="nowSportsPremierLeague.hk">
-    <title lang="en">THE CATCH-UP SHOW E37</title>
-  </programme>
-  <programme start="20260430010000 +0000" stop="20260430020000 +0000" channel="nowSportsPremierLeague.hk">
-    <title lang="en">1-TO-11 -GABRIEL AGBONLAHOR</title>
   </programme>
   <programme start="20260430020000 +0000" stop="20260430023000 +0000" channel="nowSportsPremierLeague.hk">
     <title lang="en">PL STORIES -WILLIAN</title>
@@ -2560,21 +2140,6 @@
   <programme start="20260501160000 +0000" stop="20260501170000 +0000" channel="nowSportsPremierLeague.hk">
     <title lang="en">WELCOME TO THE WEEKEND</title>
   </programme>
-  <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="nowSportsPremierLeague1.hk">
-    <title lang="en">Premier League 25/26 -Liverpool vs Crystal Palace</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="nowSportsPremierLeague1.hk">
-    <title lang="en">Premier League 25/26 -Sunderland vs Nottingham Forest</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="nowSportsPremierLeague1.hk">
-    <title lang="en">Premier League 25/26 -Brighton  Hove Albion vs Chelsea</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260430000000 +0000" channel="nowSportsPremierLeague1.hk">
-    <title lang="en">Premier League 25/26 -Liverpool vs Crystal Palace</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430010000 +0000" channel="nowSportsPremierLeague1.hk">
-    <title lang="en">Premier League Highlights 25/26 -Week 34</title>
-  </programme>
   <programme start="20260430010000 +0000" stop="20260430030000 +0000" channel="nowSportsPremierLeague1.hk">
     <title lang="en">Premier League 25/26 -Sunderland vs Nottingham Forest</title>
   </programme>
@@ -2671,12 +2236,6 @@
   <programme start="20260501160000 +0000" stop="20260501180000 +0000" channel="nowSportsPremierLeague1.hk">
     <title lang="en">Premier League 25/26 -Bournemouth vs Leeds United</title>
   </programme>
-  <programme start="20260429160000 +0000" stop="20260429200000 +0000" channel="nowSportsPremierLeague2.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260430000000 +0000" channel="nowSportsPremierLeague2.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20260430000000 +0000" stop="20260430040000 +0000" channel="nowSportsPremierLeague2.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -2711,12 +2270,6 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20260501160000 +0000" stop="20260501200000 +0000" channel="nowSportsPremierLeague2.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429160000 +0000" stop="20260429200000 +0000" channel="nowSportsPremierLeague3.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260430000000 +0000" channel="nowSportsPremierLeague3.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20260430000000 +0000" stop="20260430040000 +0000" channel="nowSportsPremierLeague3.hk">
@@ -2755,12 +2308,6 @@
   <programme start="20260501160000 +0000" stop="20260501200000 +0000" channel="nowSportsPremierLeague3.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20260429160000 +0000" stop="20260429200000 +0000" channel="nowSportsPremierLeague4.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260430000000 +0000" channel="nowSportsPremierLeague4.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20260430000000 +0000" stop="20260430040000 +0000" channel="nowSportsPremierLeague4.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -2795,12 +2342,6 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20260501160000 +0000" stop="20260501200000 +0000" channel="nowSportsPremierLeague4.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429160000 +0000" stop="20260429200000 +0000" channel="nowSportsPremierLeague5.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260430000000 +0000" channel="nowSportsPremierLeague5.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20260430000000 +0000" stop="20260430040000 +0000" channel="nowSportsPremierLeague5.hk">
@@ -2839,12 +2380,6 @@
   <programme start="20260501160000 +0000" stop="20260501200000 +0000" channel="nowSportsPremierLeague5.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20260429160000 +0000" stop="20260429200000 +0000" channel="nowSportsPremierLeague6.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260430000000 +0000" channel="nowSportsPremierLeague6.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20260430000000 +0000" stop="20260430040000 +0000" channel="nowSportsPremierLeague6.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -2879,12 +2414,6 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20260501160000 +0000" stop="20260501200000 +0000" channel="nowSportsPremierLeague6.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429160000 +0000" stop="20260429200000 +0000" channel="nowSportsPremierLeague7.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260430000000 +0000" channel="nowSportsPremierLeague7.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20260430000000 +0000" stop="20260430040000 +0000" channel="nowSportsPremierLeague7.hk">
@@ -2922,24 +2451,6 @@
   </programme>
   <programme start="20260501160000 +0000" stop="20260501200000 +0000" channel="nowSportsPremierLeague7.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429164500 +0000" stop="20260429190000 +0000" channel="nowSportsPrime.hk">
-    <title lang="en">Tour Championship 2026 -Finals(1) - Trump vs Zhao</title>
-  </programme>
-  <programme start="20260429190000 +0000" stop="20260429210000 +0000" channel="nowSportsPrime.hk">
-    <title lang="en">Tour Championship 2026 -Finals(2) - Trump vs Zhao</title>
-  </programme>
-  <programme start="20260429210000 +0000" stop="20260429231500 +0000" channel="nowSportsPrime.hk">
-    <title lang="en">World Open 2026 -Finals(1) - O'Sullivan vs Thepchaiya</title>
-  </programme>
-  <programme start="20260429231500 +0000" stop="20260429233000 +0000" channel="nowSportsPrime.hk">
-    <title lang="en">PL Goals 25/26 -Week 33</title>
-  </programme>
-  <programme start="20260429233000 +0000" stop="20260430013000 +0000" channel="nowSportsPrime.hk">
-    <title lang="en">World Open 2026 -Finals(2) - O'Sullivan vs Thepchaiya</title>
-  </programme>
-  <programme start="20260430013000 +0000" stop="20260430020000 +0000" channel="nowSportsPrime.hk">
-    <title lang="en">WTA All Access 2026 E2</title>
   </programme>
   <programme start="20260430020000 +0000" stop="20260430040000 +0000" channel="nowSportsPrime.hk">
     <title lang="en">NBA Playoffs Presented by Google Pixel 2026 -W. Conf. 1st Rd Game 5 - Minnesota Timberwolves vs Denver Nuggets</title>
@@ -3055,36 +2566,6 @@
   <programme start="20260501160000 +0000" stop="20260501183000 +0000" channel="nowSportsPrime.hk">
     <title lang="en">Players Championship 2026 -Finals(1) - Higgins vs Zhao</title>
   </programme>
-  <programme start="20260429160000 +0000" stop="20260429210000 +0000" channel="nowSports1.hk">
-    <title lang="en">BWF Thomas  Uber Cup Finals 2026 -Day 6 (D) - Group Stage TC  UC[Live]</title>
-  </programme>
-  <programme start="20260429210000 +0000" stop="20260429211500 +0000" channel="nowSports1.hk">
-    <title lang="en">Century Break 2026 E82</title>
-  </programme>
-  <programme start="20260429211500 +0000" stop="20260429213000 +0000" channel="nowSports1.hk">
-    <title lang="en">Century Break 2026 E85</title>
-  </programme>
-  <programme start="20260429213000 +0000" stop="20260429220000 +0000" channel="nowSports1.hk">
-    <title lang="en">WTA 2026 Final Highlights -Qatar TotalEnergies Open</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260429223000 +0000" channel="nowSports1.hk">
-    <title lang="en">WTT 2026 Review Show -WTT Champions Chongqing 2026</title>
-  </programme>
-  <programme start="20260429223000 +0000" stop="20260429230000 +0000" channel="nowSports1.hk">
-    <title lang="en">WTA 2026 Final Highlights -Miami Open presented by Itau</title>
-  </programme>
-  <programme start="20260429230000 +0000" stop="20260430000000 +0000" channel="nowSports1.hk">
-    <title lang="en">ATP 26 H/Ls -Miami Open presented by Itau</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430010000 +0000" channel="nowSports1.hk">
-    <title lang="en">PGA Tour Champions Highlights 2026 -Chubb Classic</title>
-  </programme>
-  <programme start="20260430010000 +0000" stop="20260430013000 +0000" channel="nowSports1.hk">
-    <title lang="en">PGA TOUR: The CUT 2026 E11</title>
-  </programme>
-  <programme start="20260430013000 +0000" stop="20260430020000 +0000" channel="nowSports1.hk">
-    <title lang="en">ADT Highlights 2026</title>
-  </programme>
   <programme start="20260430020000 +0000" stop="20260430023000 +0000" channel="nowSports1.hk">
     <title lang="en">ATP Tour: This Week 2026 E15</title>
   </programme>
@@ -3193,21 +2674,6 @@
   <programme start="20260501160000 +0000" stop="20260501210000 +0000" channel="nowSports1.hk">
     <title lang="en">BWF Thomas  Uber Cup Finals 2026 -Thomas Cup QF (4)[Live]</title>
   </programme>
-  <programme start="20260429163000 +0000" stop="20260429183000 +0000" channel="nowSports2.hk">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD32 -Villarreal CF vs Celta</title>
-  </programme>
-  <programme start="20260429183000 +0000" stop="20260429203000 +0000" channel="nowSports2.hk">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD32 -CA Osasuna vs Sevilla FC</title>
-  </programme>
-  <programme start="20260429203000 +0000" stop="20260429223000 +0000" channel="nowSports2.hk">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD32 -Real Betis vs Real Madrid</title>
-  </programme>
-  <programme start="20260429223000 +0000" stop="20260429230000 +0000" channel="nowSports2.hk">
-    <title lang="en">LALIGA HIGHLIGHTS -MD32</title>
-  </programme>
-  <programme start="20260429230000 +0000" stop="20260430010000 +0000" channel="nowSports2.hk">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD32 -Atl&#233;tico de Madrid vs Athletic Club</title>
-  </programme>
   <programme start="20260430010000 +0000" stop="20260430030000 +0000" channel="nowSports2.hk">
     <title lang="en">LALIGA EA SPORTS 2025/2026 MD32 -RCD Espanyol vs Levante UD</title>
   </programme>
@@ -3282,21 +2748,6 @@
   </programme>
   <programme start="20260501160000 +0000" stop="20260501180000 +0000" channel="nowSports2.hk">
     <title lang="en">LALIGA EA SPORTS 2025/2026 MD32 -RCD Espanyol vs Levante UD</title>
-  </programme>
-  <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="nowSports3.hk">
-    <title lang="en">LALIGA EA SPORTS 25/26 -Rayo Vallecano vs Real Sociedad</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="nowSports3.hk">
-    <title lang="en">LALIGA EA SPORTS 25/26 -Real Betis vs Real Madrid</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="nowSports3.hk">
-    <title lang="en">LALIGA EA SPORTS 25/26 -Getafe vs Barcelona</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260430000000 +0000" channel="nowSports3.hk">
-    <title lang="en">LALIGA EA SPORTS 25/26 -Atletico Madrid vs Athletic Bilbao</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430003000 +0000" channel="nowSports3.hk">
-    <title lang="en">Emirates FA Cup 2025-26 Round Highlights Show -Semi-Finals</title>
   </programme>
   <programme start="20260430003000 +0000" stop="20260430023000 +0000" channel="nowSports3.hk">
     <title lang="en">LALIGA EA SPORTS 25/26 -Rayo Vallecano vs Real Sociedad</title>
@@ -3420,54 +2871,6 @@
   </programme>
   <programme start="20260501160000 +0000" stop="20260501180000 +0000" channel="nowSports3.hk">
     <title lang="en">LALIGA EA SPORTS 25/26 -Getafe vs Barcelona</title>
-  </programme>
-  <programme start="20260429170000 +0000" stop="20260429173000 +0000" channel="nowSports4.hk">
-    <title lang="en">WTA 2026 Final Highlights -Dubai Duty Free Tennis Championships</title>
-  </programme>
-  <programme start="20260429173000 +0000" stop="20260429174500 +0000" channel="nowSports4.hk">
-    <title lang="en">Century Break 2026 E86</title>
-  </programme>
-  <programme start="20260429174500 +0000" stop="20260429180000 +0000" channel="nowSports4.hk">
-    <title lang="en">Century Break 2026 E87</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="nowSports4.hk">
-    <title lang="en">WTA 26 Mutua Madrid Open -QF(4)[Live]</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429201500 +0000" channel="nowSports4.hk">
-    <title lang="en">Century Break 2026 E86</title>
-  </programme>
-  <programme start="20260429201500 +0000" stop="20260429203000 +0000" channel="nowSports4.hk">
-    <title lang="en">Century Break 2026 E87</title>
-  </programme>
-  <programme start="20260429203000 +0000" stop="20260429210000 +0000" channel="nowSports4.hk">
-    <title lang="en">WTA 2026 Final Highlights -BNP Paribas Open</title>
-  </programme>
-  <programme start="20260429210000 +0000" stop="20260429213000 +0000" channel="nowSports4.hk">
-    <title lang="en">WTA 2026 Final Highlights -Miami Open presented by Itau</title>
-  </programme>
-  <programme start="20260429213000 +0000" stop="20260429214500 +0000" channel="nowSports4.hk">
-    <title lang="en">Century Break 2026 E86</title>
-  </programme>
-  <programme start="20260429214500 +0000" stop="20260429220000 +0000" channel="nowSports4.hk">
-    <title lang="en">Century Break 2026 E87</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260429223000 +0000" channel="nowSports4.hk">
-    <title lang="en">WTA All Access 2026 E2</title>
-  </programme>
-  <programme start="20260429223000 +0000" stop="20260429230000 +0000" channel="nowSports4.hk">
-    <title lang="en">WTA 2026 Final Highlights -Dubai Duty Free Tennis Championships</title>
-  </programme>
-  <programme start="20260429230000 +0000" stop="20260429231500 +0000" channel="nowSports4.hk">
-    <title lang="en">Century Break 2026 E86</title>
-  </programme>
-  <programme start="20260429231500 +0000" stop="20260429233000 +0000" channel="nowSports4.hk">
-    <title lang="en">Century Break 2026 E87</title>
-  </programme>
-  <programme start="20260429233000 +0000" stop="20260430000000 +0000" channel="nowSports4.hk">
-    <title lang="en">WTA 2026 Final Highlights -BNP Paribas Open</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430020000 +0000" channel="nowSports4.hk">
-    <title lang="en">WTA 26 Mutua Madrid Open -QF(3)</title>
   </programme>
   <programme start="20260430020000 +0000" stop="20260430040000 +0000" channel="nowSports4.hk">
     <title lang="en">WTA 26 Mutua Madrid Open -QF(4)</title>
@@ -3622,27 +3025,6 @@
   <programme start="20260501160000 +0000" stop="20260501180000 +0000" channel="nowSports4.hk">
     <title lang="en">WTA 26 Mutua Madrid Open -QF(4)</title>
   </programme>
-  <programme start="20260429155500 +0000" stop="20260429180000 +0000" channel="nowSports5.hk">
-    <title lang="en">Frauen Bundesliga '25/26 E36 -Werder Bremen v Bayern Munich[Live]</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429183000 +0000" channel="nowSports5.hk">
-    <title lang="en">Women's Football Weekly '25/26 E34 -Women's Football Weekly '25/26</title>
-  </programme>
-  <programme start="20260429183000 +0000" stop="20260429200000 +0000" channel="nowSports5.hk">
-    <title lang="en">Malaysian NSL '26 E11 -KL Wildcats v Terengganu Marvels</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429203000 +0000" channel="nowSports5.hk">
-    <title lang="en">MP Series '25 E10 -MDS 120 Cappadocia '25 H/L</title>
-  </programme>
-  <programme start="20260429203000 +0000" stop="20260429220000 +0000" channel="nowSports5.hk">
-    <title lang="en">Malaysian NSL '26 E12 -Perak Phoenix v Johor Jewels</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260429223000 +0000" channel="nowSports5.hk">
-    <title lang="en">MP Series '25 E1 -Ibiza Marathon '25 H/L</title>
-  </programme>
-  <programme start="20260429223000 +0000" stop="20260430003000 +0000" channel="nowSports5.hk">
-    <title lang="en">Frauen Bundesliga '25/26 E46 -Hoffenheim v Cologne</title>
-  </programme>
   <programme start="20260430003000 +0000" stop="20260430033000 +0000" channel="nowSports5.hk">
     <title lang="en">Madrid Marathon '26 E1 -Madrid Marathon '26</title>
   </programme>
@@ -3735,54 +3117,6 @@
   </programme>
   <programme start="20260501160000 +0000" stop="20260501163000 +0000" channel="nowSports5.hk">
     <title lang="en">Heroines (S2) E1 -Heroines (S2E01)</title>
-  </programme>
-  <programme start="20260429170000 +0000" stop="20260429171500 +0000" channel="nowSports6.hk">
-    <title lang="en">Century Break 2026 E94</title>
-  </programme>
-  <programme start="20260429171500 +0000" stop="20260429173000 +0000" channel="nowSports6.hk">
-    <title lang="en">Century Break 2026 E95</title>
-  </programme>
-  <programme start="20260429173000 +0000" stop="20260429180000 +0000" channel="nowSports6.hk">
-    <title lang="en">ATP Tour: This Week 2026 E15</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429181500 +0000" channel="nowSports6.hk">
-    <title lang="en">Century Break 2026 E92</title>
-  </programme>
-  <programme start="20260429181500 +0000" stop="20260429183000 +0000" channel="nowSports6.hk">
-    <title lang="en">Century Break 2026 E93</title>
-  </programme>
-  <programme start="20260429183000 +0000" stop="20260429193000 +0000" channel="nowSports6.hk">
-    <title lang="en">ATP 26 H/Ls -Barcelona Open Banc Sabadell</title>
-  </programme>
-  <programme start="20260429193000 +0000" stop="20260429213000 +0000" channel="nowSports6.hk">
-    <title lang="en">ATP 26 Mutua Madrid Open -QF (2)[Live]</title>
-  </programme>
-  <programme start="20260429213000 +0000" stop="20260429214500 +0000" channel="nowSports6.hk">
-    <title lang="en">Century Break 2026 E92</title>
-  </programme>
-  <programme start="20260429214500 +0000" stop="20260429220000 +0000" channel="nowSports6.hk">
-    <title lang="en">Century Break 2026 E93</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260429223000 +0000" channel="nowSports6.hk">
-    <title lang="en">WTA All Access 2026 E2</title>
-  </programme>
-  <programme start="20260429223000 +0000" stop="20260429224500 +0000" channel="nowSports6.hk">
-    <title lang="en">Century Break 2026 E94</title>
-  </programme>
-  <programme start="20260429224500 +0000" stop="20260429230000 +0000" channel="nowSports6.hk">
-    <title lang="en">Century Break 2026 E95</title>
-  </programme>
-  <programme start="20260429230000 +0000" stop="20260429233000 +0000" channel="nowSports6.hk">
-    <title lang="en">ATP Tour: This Week 2026 E15</title>
-  </programme>
-  <programme start="20260429233000 +0000" stop="20260429234500 +0000" channel="nowSports6.hk">
-    <title lang="en">Century Break 2026 E92</title>
-  </programme>
-  <programme start="20260429234500 +0000" stop="20260430000000 +0000" channel="nowSports6.hk">
-    <title lang="en">Century Break 2026 E93</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430010000 +0000" channel="nowSports6.hk">
-    <title lang="en">ATP 26 H/Ls -BMW Open by Bitpanda</title>
   </programme>
   <programme start="20260430010000 +0000" stop="20260430030000 +0000" channel="nowSports6.hk">
     <title lang="en">ATP 26 Mutua Madrid Open -QF (1)</title>
@@ -3946,57 +3280,6 @@
   <programme start="20260501161500 +0000" stop="20260501163000 +0000" channel="nowSports6.hk">
     <title lang="en">Century Break 2026 E105</title>
   </programme>
-  <programme start="20260429170000 +0000" stop="20260429171500 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E104</title>
-  </programme>
-  <programme start="20260429171500 +0000" stop="20260429173000 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E105</title>
-  </programme>
-  <programme start="20260429173000 +0000" stop="20260429174500 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E106</title>
-  </programme>
-  <programme start="20260429174500 +0000" stop="20260429180000 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E103</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429210000 +0000" channel="nowSports7.hk">
-    <title lang="en">World Snooker Championship 2026 -QFs(6) - Higgins vs Robertson[Live]</title>
-  </programme>
-  <programme start="20260429210000 +0000" stop="20260429211500 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E104</title>
-  </programme>
-  <programme start="20260429211500 +0000" stop="20260429213000 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E105</title>
-  </programme>
-  <programme start="20260429213000 +0000" stop="20260429214500 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E106</title>
-  </programme>
-  <programme start="20260429214500 +0000" stop="20260429220000 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E103</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260429221500 +0000" channel="nowSports7.hk">
-    <title lang="en">Snooker 147 E40</title>
-  </programme>
-  <programme start="20260429221500 +0000" stop="20260429223000 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E74</title>
-  </programme>
-  <programme start="20260429223000 +0000" stop="20260429224500 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E75</title>
-  </programme>
-  <programme start="20260429224500 +0000" stop="20260429230000 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E76</title>
-  </programme>
-  <programme start="20260429230000 +0000" stop="20260429231500 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E77</title>
-  </programme>
-  <programme start="20260429231500 +0000" stop="20260429233000 +0000" channel="nowSports7.hk">
-    <title lang="en">Snooker 147 E40</title>
-  </programme>
-  <programme start="20260429233000 +0000" stop="20260429234500 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E104</title>
-  </programme>
-  <programme start="20260429234500 +0000" stop="20260430000000 +0000" channel="nowSports7.hk">
-    <title lang="en">Century Break 2026 E105</title>
-  </programme>
   <programme start="20260430000000 +0000" stop="20260430023000 +0000" channel="nowSports7.hk">
     <title lang="en">World Snooker Championship 2026 -QFs(4) - Allen vs Hawkins</title>
   </programme>
@@ -4156,27 +3439,6 @@
   <programme start="20260501133000 +0000" stop="20260501170000 +0000" channel="nowSports7.hk">
     <title lang="en">World Snooker Championship 2026 -SFs(4)[Live]</title>
   </programme>
-  <programme start="20260429162000 +0000" stop="20260429172000 +0000" channel="beinSports1.hk">
-    <title lang="en">Women's Super League Highlights 2025/26 E20 -Matchday 20</title>
-  </programme>
-  <programme start="20260429172000 +0000" stop="20260429175000 +0000" channel="beinSports1.hk">
-    <title lang="en">Serie A Full Impact 2025/26 E34 -Matchday 34</title>
-  </programme>
-  <programme start="20260429175000 +0000" stop="20260429200000 +0000" channel="beinSports1.hk">
-    <title lang="en">Women's Super League 2025/26 E88 -Arsenal vs Leicester[Live]</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429203000 +0000" channel="beinSports1.hk">
-    <title lang="en">Serie A Full Impact 2025/26 E34 -Matchday 34</title>
-  </programme>
-  <programme start="20260429203000 +0000" stop="20260429210000 +0000" channel="beinSports1.hk">
-    <title lang="en">Inside Sailing 2026 E4 -May</title>
-  </programme>
-  <programme start="20260429210000 +0000" stop="20260429225500 +0000" channel="beinSports1.hk">
-    <title lang="en">Super Lig 2025/26 E71 -Konyaspor vs Trabzonspor</title>
-  </programme>
-  <programme start="20260429225500 +0000" stop="20260430004500 +0000" channel="beinSports1.hk">
-    <title lang="en">Serie A 2025/26 E336 -Genoa vs Como 1907</title>
-  </programme>
   <programme start="20260430004500 +0000" stop="20260430023500 +0000" channel="beinSports1.hk">
     <title lang="en">Ligue 1 2025/26 E279 -Marseille vs Nice</title>
   </programme>
@@ -4288,21 +3550,6 @@
   <programme start="20260501155500 +0000" stop="20260501173000 +0000" channel="beinSports1.hk">
     <title lang="en">Formula 1 Practice 2026 E14 -FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026 Practice 1[Live]</title>
   </programme>
-  <programme start="20260429165000 +0000" stop="20260429184000 +0000" channel="beinSports2.hk">
-    <title lang="en">Super Lig 2025/26 -Konyaspor vs Trabzonspor</title>
-  </programme>
-  <programme start="20260429184000 +0000" stop="20260429203000 +0000" channel="beinSports2.hk">
-    <title lang="en">Super Lig 2025/26 -Galatasaray vs Fenerbahce</title>
-  </programme>
-  <programme start="20260429203000 +0000" stop="20260429222000 +0000" channel="beinSports2.hk">
-    <title lang="en">Ligue 1 2025/26 -Lorient vs Strasbourg</title>
-  </programme>
-  <programme start="20260429222000 +0000" stop="20260430001000 +0000" channel="beinSports2.hk">
-    <title lang="en">Ligue 1 2025/26 -Rennes vs Nantes</title>
-  </programme>
-  <programme start="20260430001000 +0000" stop="20260430020000 +0000" channel="beinSports2.hk">
-    <title lang="en">Bundesliga 2 2025/26 -Hertha vs Holstein Kiel</title>
-  </programme>
   <programme start="20260430020000 +0000" stop="20260430035000 +0000" channel="beinSports2.hk">
     <title lang="en">Bundesliga 2025/26 -Heidenheim 1846 vs St. Pauli</title>
   </programme>
@@ -4410,33 +3657,6 @@
   </programme>
   <programme start="20260501133000 +0000" stop="20260501163000 +0000" channel="beinSports2.hk">
     <title lang="en">ONE Friday Fights 2026 -OFF 152[Live]</title>
-  </programme>
-  <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="MUTV.hk">
-    <title lang="en">The Premier League 25/26 E34 -United v Brentford</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429183000 +0000" channel="MUTV.hk">
-    <title lang="en">U18s Highlights 25/26 E25 -Crystal Palace v United</title>
-  </programme>
-  <programme start="20260429183000 +0000" stop="20260429190000 +0000" channel="MUTV.hk">
-    <title lang="en">U18s Highlights 25/26 E26 -Sunderland v United</title>
-  </programme>
-  <programme start="20260429190000 +0000" stop="20260429193000 +0000" channel="MUTV.hk">
-    <title lang="en">MU Women Highlights 25/26 E40 -Tottenham v United</title>
-  </programme>
-  <programme start="20260429193000 +0000" stop="20260429200000 +0000" channel="MUTV.hk">
-    <title lang="en">The Premier League Highlights 25/26 E33 -Crystal Palace v United</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429210000 +0000" channel="MUTV.hk">
-    <title lang="en">The Official Utd Podcast E184 -Inside Carrington Podcast</title>
-  </programme>
-  <programme start="20260429210000 +0000" stop="20260429230000 +0000" channel="MUTV.hk">
-    <title lang="en">All The Goals E15 -Rooney</title>
-  </programme>
-  <programme start="20260429230000 +0000" stop="20260430010000 +0000" channel="MUTV.hk">
-    <title lang="en">The Impossible Dream E1</title>
-  </programme>
-  <programme start="20260430010000 +0000" stop="20260430020000 +0000" channel="MUTV.hk">
-    <title lang="en">The Official Utd Podcast E184 -Inside Carrington Podcast</title>
   </programme>
   <programme start="20260430020000 +0000" stop="20260430023000 +0000" channel="MUTV.hk">
     <title lang="en">U18s Highlights 25/26 E25 -Crystal Palace v United</title>
@@ -4609,33 +3829,6 @@
   <programme start="20260501160000 +0000" stop="20260501164500 +0000" channel="MUTV.hk">
     <title lang="en">El Beatle E1</title>
   </programme>
-  <programme start="20260429161500 +0000" stop="20260429171500 +0000" channel="beinSports3.hk">
-    <title lang="en">UEFA Europa/Conference League Magazine Show 2025/26 E18 -UEL MD15/UECL MD13 Preview</title>
-  </programme>
-  <programme start="20260429171500 +0000" stop="20260429173000 +0000" channel="beinSports3.hk">
-    <title lang="en">UCL Specials E8 -UCL All Goals - Alessandro Del Piero</title>
-  </programme>
-  <programme start="20260429173000 +0000" stop="20260429180000 +0000" channel="beinSports3.hk">
-    <title lang="en">UEFA Champions League Highlights 2025/26 E33 -Tue,SFs,1st Leg</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429185500 +0000" channel="beinSports3.hk">
-    <title lang="en">The UCL Preview Show 2025/26 E30 -Atletico Madrid vs Arsenal - Wed, SF, 1st Leg[Live]</title>
-  </programme>
-  <programme start="20260429185500 +0000" stop="20260429210000 +0000" channel="beinSports3.hk">
-    <title lang="en">UEFA Champions League 2025/26 E200 -Atletico Madrid vs Arsenal - SF, 1st Leg[Live]</title>
-  </programme>
-  <programme start="20260429210000 +0000" stop="20260429213000 +0000" channel="beinSports3.hk">
-    <title lang="en">The UCL Review Show 2025/26 E30 -Atletico Madrid vs Arsenal - Wed, SF, 1st Leg[Live]</title>
-  </programme>
-  <programme start="20260429213000 +0000" stop="20260429220000 +0000" channel="beinSports3.hk">
-    <title lang="en">UEFA Champions League Highlights 2025/26 E33 -Tue,SFs,1st Leg</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260430000000 +0000" channel="beinSports3.hk">
-    <title lang="en">UEFA Conference League 2025/26 E148 -Strasbourg vs Mainz - QF, 2nd Leg</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430020000 +0000" channel="beinSports3.hk">
-    <title lang="en">UEFA Champions League 2025/26 E200 -Atletico Madrid vs Arsenal - SF, 1st Leg</title>
-  </programme>
   <programme start="20260430020000 +0000" stop="20260430040000 +0000" channel="beinSports3.hk">
     <title lang="en">UEFA Conference League 2025/26 E147 -AEK Athens vs Rayo Vallecano - QF, 2nd Leg</title>
   </programme>
@@ -4729,12 +3922,6 @@
   <programme start="20260501155500 +0000" stop="20260501180000 +0000" channel="beinSports3.hk">
     <title lang="en">Super Lig 2025/26[Live]</title>
   </programme>
-  <programme start="20260429160000 +0000" stop="20260429200000 +0000" channel="beinSports4.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260430000000 +0000" channel="beinSports4.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20260430000000 +0000" stop="20260430040000 +0000" channel="beinSports4.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -4769,12 +3956,6 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20260501160000 +0000" stop="20260501200000 +0000" channel="beinSports4.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429160000 +0000" stop="20260429200000 +0000" channel="beinSports5.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260430000000 +0000" channel="beinSports5.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20260430000000 +0000" stop="20260430040000 +0000" channel="beinSports5.hk">
@@ -4813,12 +3994,6 @@
   <programme start="20260501160000 +0000" stop="20260501200000 +0000" channel="beinSports5.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20260429160000 +0000" stop="20260429200000 +0000" channel="beinSports6.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260430000000 +0000" channel="beinSports6.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20260430000000 +0000" stop="20260430040000 +0000" channel="beinSports6.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -4853,21 +4028,6 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20260501160000 +0000" stop="20260501200000 +0000" channel="beinSports6.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="nowSports647.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="nowSports647.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="nowSports647.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260430000000 +0000" channel="nowSports647.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430020000 +0000" channel="nowSports647.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20260430020000 +0000" stop="20260430040000 +0000" channel="nowSports647.hk">
@@ -4933,21 +4093,6 @@
   <programme start="20260501160000 +0000" stop="20260501180000 +0000" channel="nowSports647.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="nowSports651.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="nowSports651.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="nowSports651.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260430000000 +0000" channel="nowSports651.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430020000 +0000" channel="nowSports651.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20260430020000 +0000" stop="20260430040000 +0000" channel="nowSports651.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -5009,21 +4154,6 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20260501160000 +0000" stop="20260501180000 +0000" channel="nowSports651.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="nowSports652.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="nowSports652.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="nowSports652.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260430000000 +0000" channel="nowSports652.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430020000 +0000" channel="nowSports652.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20260430020000 +0000" stop="20260430040000 +0000" channel="nowSports652.hk">
@@ -5088,33 +4218,6 @@
   </programme>
   <programme start="20260501160000 +0000" stop="20260501180000 +0000" channel="nowSports652.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20260429160000 +0000" stop="20260429210000 +0000" channel="nowSportsPlus.hk">
-    <title lang="en">BWF Thomas  Uber Cup Finals 2026 -Day 6 (C) - Group Stage TC  UC[Live]</title>
-  </programme>
-  <programme start="20260429210000 +0000" stop="20260429211500 +0000" channel="nowSportsPlus.hk">
-    <title lang="en">Badminton Weekly E153</title>
-  </programme>
-  <programme start="20260429211500 +0000" stop="20260429213000 +0000" channel="nowSportsPlus.hk">
-    <title lang="en">Century Break 2026 E75</title>
-  </programme>
-  <programme start="20260429213000 +0000" stop="20260429220000 +0000" channel="nowSportsPlus.hk">
-    <title lang="en">FEI Ride Originals E8</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260429223000 +0000" channel="nowSportsPlus.hk">
-    <title lang="en">2025 Mass Participation Series -Transvulcania</title>
-  </programme>
-  <programme start="20260429223000 +0000" stop="20260429233000 +0000" channel="nowSportsPlus.hk">
-    <title lang="en">Longines FEI Jumping World Cup 2025-2026 E15</title>
-  </programme>
-  <programme start="20260429233000 +0000" stop="20260430003000 +0000" channel="nowSportsPlus.hk">
-    <title lang="en">Longines FEI Jumping World Cup 2025-2026 E16</title>
-  </programme>
-  <programme start="20260430003000 +0000" stop="20260430013000 +0000" channel="nowSportsPlus.hk">
-    <title lang="en">Longines FEI Jumping World Cup 2025-2026 E17</title>
-  </programme>
-  <programme start="20260430013000 +0000" stop="20260430020000 +0000" channel="nowSportsPlus.hk">
-    <title lang="en">FEI Ride Originals E9</title>
   </programme>
   <programme start="20260430020000 +0000" stop="20260430023000 +0000" channel="nowSportsPlus.hk">
     <title lang="en">UCI Pro Series - Tour of Oman -Stage 3</title>
@@ -5215,12 +4318,6 @@
   <programme start="20260501160000 +0000" stop="20260501210000 +0000" channel="nowSportsPlus.hk">
     <title lang="en">BWF Thomas  Uber Cup Finals 2026 -Thomas Cup QF (3)[Live]</title>
   </programme>
-  <programme start="20260429160000 +0000" stop="20260429190000 +0000" channel="nowGolf2.hk">
-    <title lang="en">2026 Senior PGA Championship -Day 4</title>
-  </programme>
-  <programme start="20260429190000 +0000" stop="20260430000000 +0000" channel="nowGolf2.hk">
-    <title lang="en">DP World Tour 25/26 Volvo China Open -Day 4</title>
-  </programme>
   <programme start="20260430000000 +0000" stop="20260430050000 +0000" channel="nowGolf2.hk">
     <title lang="en">LPGA 2026 The Chevron Championship -Day 3</title>
   </programme>
@@ -5286,12 +4383,6 @@
   </programme>
   <programme start="20260501160000 +0000" stop="20260501163000 +0000" channel="nowGolf2.hk">
     <title lang="en">The HotelPlanner Tour Series 2026 E3</title>
-  </programme>
-  <programme start="20260429160000 +0000" stop="20260429200000 +0000" channel="nowGolf3.hk">
-    <title lang="en">Asian Tour 2026 Singapore Open presented byThe Business Times -Day 4</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260430010000 +0000" channel="nowGolf3.hk">
-    <title lang="en">PGA TOUR 2026 Zurich Classic of New Orleans -Day 4</title>
   </programme>
   <programme start="20260430010000 +0000" stop="20260430040000 +0000" channel="nowGolf3.hk">
     <title lang="en">PGA TOUR Champions 2026 Mitsubishi Electric Classic -Day 2</title>
@@ -5395,98 +4486,8 @@
   <programme start="20260501160000 +0000" stop="20260501170000 +0000" channel="nowGolf3.hk">
     <title lang="en">PGA TOUR Highlights 2026 -Zurich Classic of New Orleans</title>
   </programme>
-  <programme start="20260429170000 +0000" stop="20260429200000 +0000" channel="esp-502">
-    <title lang="en">Tampa Bay Rays @ Cleveland Guardians</title>
-  </programme>
-  <programme start="20260429170000 +0000" stop="20260429173000 +0000" channel="esp-504">
-    <title lang="en">A-League Women Highlights</title>
-  </programme>
-  <programme start="20260429170000 +0000" stop="20260429173000 +0000" channel="esp-501">
-    <title lang="en">TNT Sports Reload</title>
-  </programme>
-  <programme start="20260429170000 +0000" stop="20260429173000 +0000" channel="esp-503">
-    <title lang="en">Paris Saint-Germain - Bayern Munich</title>
-  </programme>
-  <programme start="20260429173000 +0000" stop="20260429210000 +0000" channel="esp-503">
-    <title lang="en">John Higgins - Neil Robertson</title>
-  </programme>
-  <programme start="20260429173000 +0000" stop="20260429183000 +0000" channel="esp-504">
-    <title lang="en">On The Bank</title>
-  </programme>
-  <programme start="20260429173000 +0000" stop="20260429180000 +0000" channel="esp-501">
-    <title lang="en">UEFA Champions League Highlights Show</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429214500 +0000" channel="esp-501">
-    <title lang="en">Atl&#233;tico Madrid - Arsenal</title>
-  </programme>
-  <programme start="20260429180000 +0000" stop="20260429210000 +0000" channel="esp-20092">
-    <title lang="en">Wu Yize - Hossein Vafaei</title>
-  </programme>
-  <programme start="20260429183000 +0000" stop="20260429193000 +0000" channel="esp-504">
-    <title lang="en">MotoGP Highlights</title>
-  </programme>
-  <programme start="20260429193000 +0000" stop="20260429200000 +0000" channel="esp-504">
-    <title lang="en">The Cycling Show</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429203000 +0000" channel="esp-502">
+  <programme start="20260430014300 +0000" stop="20260430023000 +0000" channel="esp-501">
     <title lang="en">MLB Plays of the Week</title>
-  </programme>
-  <programme start="20260429200000 +0000" stop="20260429203000 +0000" channel="esp-504">
-    <title lang="en">Discovery Golf</title>
-  </programme>
-  <programme start="20260429203000 +0000" stop="20260429213000 +0000" channel="esp-504">
-    <title lang="en">Marathon | London</title>
-  </programme>
-  <programme start="20260429203000 +0000" stop="20260429213000 +0000" channel="esp-502">
-    <title lang="en">MotoGP Highlights</title>
-  </programme>
-  <programme start="20260429210000 +0000" stop="20260429220000 +0000" channel="esp-503">
-    <title lang="en">Tour of T&#252;rkiye | Stage 4 | Highlights</title>
-  </programme>
-  <programme start="20260429213000 +0000" stop="20260429230000 +0000" channel="esp-504">
-    <title lang="en">Ultimate Pool</title>
-  </programme>
-  <programme start="20260429213000 +0000" stop="20260429220000 +0000" channel="esp-502">
-    <title lang="en">UFC Connected</title>
-  </programme>
-  <programme start="20260429214500 +0000" stop="20260429230000 +0000" channel="esp-501">
-    <title lang="en">The Club That George Built</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260429230000 +0000" channel="esp-503">
-    <title lang="en">Tour de Romandie | Stage 1 | Highlights</title>
-  </programme>
-  <programme start="20260429220000 +0000" stop="20260429230000 +0000" channel="esp-502">
-    <title lang="en">Bangladesh - New Zealand | Highlights</title>
-  </programme>
-  <programme start="20260429230000 +0000" stop="20260430020000 +0000" channel="esp-501">
-    <title lang="en">Detroit Tigers @ Atlanta Braves</title>
-  </programme>
-  <programme start="20260429230000 +0000" stop="20260430003000 +0000" channel="esp-504">
-    <title lang="en">Port Adelaide - Geelong Cats | Highlights</title>
-  </programme>
-  <programme start="20260429230000 +0000" stop="20260429233000 +0000" channel="esp-502">
-    <title lang="en">Premier League Netbusters</title>
-  </programme>
-  <programme start="20260429230000 +0000" stop="20260429233000 +0000" channel="esp-503">
-    <title lang="en">The Cycling Show</title>
-  </programme>
-  <programme start="20260429233000 +0000" stop="20260430000000 +0000" channel="esp-503">
-    <title lang="en">Race Bikes</title>
-  </programme>
-  <programme start="20260429233000 +0000" stop="20260430000000 +0000" channel="esp-502">
-    <title lang="en">Paris Saint-Germain - Bayern Munich</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430020000 +0000" channel="esp-503">
-    <title lang="en">World Championship | Highlights</title>
-  </programme>
-  <programme start="20260430000000 +0000" stop="20260430010000 +0000" channel="esp-502">
-    <title lang="en">Atl&#233;tico Madrid - Arsenal | Highlights</title>
-  </programme>
-  <programme start="20260430003000 +0000" stop="20260430020000 +0000" channel="esp-504">
-    <title lang="en">Fremantle - Carlton | Highlights</title>
-  </programme>
-  <programme start="20260430010000 +0000" stop="20260430020000 +0000" channel="esp-502">
-    <title lang="en">UEFA Europa League and Conference League Magazine</title>
   </programme>
   <programme start="20260430020000 +0000" stop="20260430033000 +0000" channel="esp-504">
     <title lang="en">St Kilda - West Coast Eagles | Highlights</title>
@@ -5497,29 +4498,26 @@
   <programme start="20260430020000 +0000" stop="20260430023000 +0000" channel="esp-502">
     <title lang="en">UFC Connected</title>
   </programme>
-  <programme start="20260430020000 +0000" stop="20260430023000 +0000" channel="esp-501">
-    <title lang="en">MLB Plays of the Week</title>
-  </programme>
   <programme start="20260430023000 +0000" stop="20260430033000 +0000" channel="esp-501">
     <title lang="en">Premier League Review</title>
-  </programme>
-  <programme start="20260430023000 +0000" stop="20260430030000 +0000" channel="esp-503">
-    <title lang="en">Discovery Golf</title>
   </programme>
   <programme start="20260430023000 +0000" stop="20260430030000 +0000" channel="esp-502">
     <title lang="en">UFC Fight Flashback</title>
   </programme>
-  <programme start="20260430030000 +0000" stop="20260430040000 +0000" channel="esp-502">
-    <title lang="en">Supercars Championship | Highlights</title>
+  <programme start="20260430023000 +0000" stop="20260430030000 +0000" channel="esp-503">
+    <title lang="en">Discovery Golf</title>
   </programme>
   <programme start="20260430030000 +0000" stop="20260430040000 +0000" channel="esp-503">
     <title lang="en">On The Bank</title>
   </programme>
-  <programme start="20260430033000 +0000" stop="20260430050000 +0000" channel="esp-504">
-    <title lang="en">Brisbane Lions - Adelaide Crows | Highlights</title>
+  <programme start="20260430030000 +0000" stop="20260430040000 +0000" channel="esp-502">
+    <title lang="en">Supercars Championship | Highlights</title>
   </programme>
   <programme start="20260430033000 +0000" stop="20260430050000 +0000" channel="esp-501">
     <title lang="en">Ultimate Pool</title>
+  </programme>
+  <programme start="20260430033000 +0000" stop="20260430050000 +0000" channel="esp-504">
+    <title lang="en">Brisbane Lions - Adelaide Crows | Highlights</title>
   </programme>
   <programme start="20260430040000 +0000" stop="20260430050000 +0000" channel="esp-503">
     <title lang="en">MotoGP Highlights</title>
@@ -5548,14 +4546,14 @@
   <programme start="20260430060000 +0000" stop="20260430063000 +0000" channel="esp-501">
     <title lang="en">Premier League Netbusters</title>
   </programme>
-  <programme start="20260430063000 +0000" stop="20260430073000 +0000" channel="esp-504">
-    <title lang="en">Newcastle Red Bulls - Bristol Bears | Highlights</title>
-  </programme>
   <programme start="20260430063000 +0000" stop="20260430073000 +0000" channel="esp-503">
     <title lang="en">Tour of T&#252;rkiye | Stage 4 | Highlights</title>
   </programme>
   <programme start="20260430063000 +0000" stop="20260430073000 +0000" channel="esp-501">
     <title lang="en">Atl&#233;tico Madrid - Arsenal</title>
+  </programme>
+  <programme start="20260430063000 +0000" stop="20260430073000 +0000" channel="esp-504">
+    <title lang="en">Newcastle Red Bulls - Bristol Bears | Highlights</title>
   </programme>
   <programme start="20260430070000 +0000" stop="20260430073000 +0000" channel="esp-502">
     <title lang="en">A-League Highlights</title>
@@ -5583,6 +4581,9 @@
   </programme>
   <programme start="20260430083000 +0000" stop="20260430084500 +0000" channel="esp-501">
     <title lang="en">The Breakdown</title>
+  </programme>
+  <programme start="20260430084500 +0000" stop="20260430091500 +0000" channel="esp-501">
+    <title lang="en">Premier League Stories</title>
   </programme>
   <programme start="20260430090000 +0000" stop="20260430092500 +0000" channel="esp-503">
     <title lang="en">T100 Triathlon World Tour | Highlights</title>
@@ -5614,23 +4615,23 @@
   <programme start="20260430103000 +0000" stop="20260430113000 +0000" channel="esp-502">
     <title lang="en">Tour of T&#252;rkiye | Stage 4 | Highlights</title>
   </programme>
-  <programme start="20260430113000 +0000" stop="20260430133000 +0000" channel="esp-20083">
+  <programme start="20260430113000 +0000" stop="20260430133000 +0000" channel="esp-502">
     <title lang="en">Tour of T&#252;rkiye | Stage 5</title>
   </programme>
-  <programme start="20260430113000 +0000" stop="20260430133000 +0000" channel="esp-502">
+  <programme start="20260430113000 +0000" stop="20260430133000 +0000" channel="esp-20083">
     <title lang="en">Tour of T&#252;rkiye | Stage 5</title>
   </programme>
   <programme start="20260430113000 +0000" stop="20260430120000 +0000" channel="esp-504">
     <title lang="en">The Breakdown</title>
   </programme>
   <programme start="20260430114500 +0000" stop="20260430150000 +0000" channel="esp-503">
-    <title lang="en">Snooker</title>
+    <title lang="en">Shaun Murphy - John Higgins</title>
   </programme>
   <programme start="20260430120000 +0000" stop="20260430130000 +0000" channel="esp-504">
     <title lang="en">MLB Daily Highlights</title>
   </programme>
   <programme start="20260430123000 +0000" stop="20260430150000 +0000" channel="esp-501">
-    <title lang="en">Snooker</title>
+    <title lang="en">Shaun Murphy - John Higgins</title>
   </programme>
   <programme start="20260430130000 +0000" stop="20260430131500 +0000" channel="esp-504">
     <title lang="en">TNT Sports Cricket Reload</title>
@@ -5691,5 +4692,104 @@
   </programme>
   <programme start="20260430170000 +0000" stop="20260430173000 +0000" channel="esp-502">
     <title lang="en">SailGP: Racing on the Edge</title>
+  </programme>
+  <programme start="20260430171500 +0000" stop="20260430181000 +0000" channel="esp-504">
+    <title lang="en">Chelsea - Leeds United | Highlights</title>
+  </programme>
+  <programme start="20260430173000 +0000" stop="20260430210000 +0000" channel="esp-503">
+    <title lang="en">Mark Allen - Wu Yize</title>
+  </programme>
+  <programme start="20260430173000 +0000" stop="20260430180000 +0000" channel="esp-501">
+    <title lang="en">Premier League: The Big Interview</title>
+  </programme>
+  <programme start="20260430173000 +0000" stop="20260430174500 +0000" channel="esp-502">
+    <title lang="en">Premier League Reload</title>
+  </programme>
+  <programme start="20260430174500 +0000" stop="20260430180000 +0000" channel="esp-502">
+    <title lang="en">No Filter Football | Atl&#233;tico Madrid &#8211; Arsenal</title>
+  </programme>
+  <programme start="20260430180000 +0000" stop="20260430214500 +0000" channel="esp-501">
+    <title lang="en">Nottingham Forest - Aston Villa</title>
+  </programme>
+  <programme start="20260430180000 +0000" stop="20260430214500 +0000" channel="esp-599">
+    <title lang="en">Nottingham Forest - Aston Villa</title>
+  </programme>
+  <programme start="20260430180000 +0000" stop="20260430213000 +0000" channel="esp-502">
+    <title lang="en">Shakhtar Donetsk - Crystal Palace</title>
+  </programme>
+  <programme start="20260430180000 +0000" stop="20260430210000 +0000" channel="esp-15009">
+    <title lang="en">Multiview</title>
+  </programme>
+  <programme start="20260430181500 +0000" stop="20260430184500 +0000" channel="esp-504">
+    <title lang="en">Serie A Full Impact</title>
+  </programme>
+  <programme start="20260430184500 +0000" stop="20260430210000 +0000" channel="esp-504">
+    <title lang="en">Braga - SC Freiburg</title>
+  </programme>
+  <programme start="20260430190000 +0000" stop="20260430210000 +0000" channel="esp-20080">
+    <title lang="en">Rayo Vallecano - Strasbourg</title>
+  </programme>
+  <programme start="20260430210000 +0000" stop="20260430223000 +0000" channel="esp-504">
+    <title lang="en">Collingwood - Hawthorn | Highlights</title>
+  </programme>
+  <programme start="20260430210000 +0000" stop="20260430220000 +0000" channel="esp-503">
+    <title lang="en">Tour of T&#252;rkiye | Stage 5 | Highlights</title>
+  </programme>
+  <programme start="20260430213000 +0000" stop="20260430220000 +0000" channel="esp-502">
+    <title lang="en">Serie A Full Impact</title>
+  </programme>
+  <programme start="20260430214500 +0000" stop="20260430221500 +0000" channel="esp-501">
+    <title lang="en">UEFA Europa League and Conference League Highlights</title>
+  </programme>
+  <programme start="20260430220000 +0000" stop="20260430234500 +0000" channel="esp-502">
+    <title lang="en">Football is for Everyone: With Michael Owen</title>
+  </programme>
+  <programme start="20260430220000 +0000" stop="20260430230000 +0000" channel="esp-503">
+    <title lang="en">Tour de Romandie | Stage 2 | Highlights</title>
+  </programme>
+  <programme start="20260430221500 +0000" stop="20260430223000 +0000" channel="esp-501">
+    <title lang="en">No Filter Football | Atl&#233;tico Madrid &#8211; Arsenal</title>
+  </programme>
+  <programme start="20260430223000 +0000" stop="20260501000000 +0000" channel="esp-504">
+    <title lang="en">Ultimate Pool</title>
+  </programme>
+  <programme start="20260430223000 +0000" stop="20260430233000 +0000" channel="esp-501">
+    <title lang="en">MLB Daily Highlights</title>
+  </programme>
+  <programme start="20260430230000 +0000" stop="20260501000000 +0000" channel="esp-503">
+    <title lang="en">MotoGP Highlights</title>
+  </programme>
+  <programme start="20260430233000 +0000" stop="20260501023000 +0000" channel="esp-501">
+    <title lang="en">Toronto Blue Jays @ Minnesota Twins</title>
+  </programme>
+  <programme start="20260430234500 +0000" stop="20260501000000 +0000" channel="esp-502">
+    <title lang="en">Playing For Our Future | Football</title>
+  </programme>
+  <programme start="20260501000000 +0000" stop="20260501020000 +0000" channel="esp-503">
+    <title lang="en">World Championship | Highlights</title>
+  </programme>
+  <programme start="20260501000000 +0000" stop="20260501010000 +0000" channel="esp-502">
+    <title lang="en">Nottingham Forest - Aston Villa</title>
+  </programme>
+  <programme start="20260501000000 +0000" stop="20260501003000 +0000" channel="esp-504">
+    <title lang="en">T100 Triathlon World Tour | Highlights</title>
+  </programme>
+  <programme start="20260501003000 +0000" stop="20260501010000 +0000" channel="esp-504">
+    <title lang="en">UFC Connected</title>
+  </programme>
+  <programme start="20260501010000 +0000" stop="20260501020000 +0000" channel="esp-504">
+    <title lang="en">WRC Highlights</title>
+  </programme>
+  <programme start="20260501010000 +0000" stop="20260501020000 +0000" channel="esp-502">
+    <title lang="en">Braga - SC Freiburg</title>
+  </programme>
+  <programme start="20260501020000 +0000" stop="20260501030000 +0000" channel="esp-502">
+    <title lang="en">Shakhtar Donetsk - Crystal Palace</title>
+  </programme>
+  <programme start="20260501020000 +0000" stop="20260501030000 +0000" channel="esp-504">
+    <title lang="en">On The Bank</title>
+  </programme>
+  <programme start="20260501020000 +0000" stop="20260501030000 +0000" channel="esp-503">
+    <title lang="en">Tour of T&#252;rkiye | Stage 5 | Highlights</title>
   </programme>
 </tv>

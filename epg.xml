@@ -3945,14 +3945,14 @@
   <programme start="20260606080109 +0000" stop="20260606104500 +0000" channel="esp-502">
     <title lang="en">MotoGP | Round 8 | Hungary</title>
   </programme>
-  <programme start="20260606085500 +0000" stop="20260606110000 +0000" channel="esp-55003vb1">
-    <title lang="en">D. Hantuchova / A. Ivanovic - A. Cornet / T. Golovin</title>
-  </programme>
-  <programme start="20260606085500 +0000" stop="20260606110000 +0000" channel="esp-55004vb1">
-    <title lang="en">Ahmet Kaplan - Niels Vink</title>
-  </programme>
   <programme start="20260606085500 +0000" stop="20260606110000 +0000" channel="esp-55002vb1">
     <title lang="en">M. Bartoli / G. Simon - N. Dechy / JW. Tsonga</title>
+  </programme>
+  <programme start="20260606085510 +0000" stop="20260606110000 +0000" channel="esp-55004vb1">
+    <title lang="en">Ahmet Kaplan - Niels Vink</title>
+  </programme>
+  <programme start="20260606085510 +0000" stop="20260606110000 +0000" channel="esp-55003vb1">
+    <title lang="en">D. Hantuchova / A. Ivanovic - A. Cornet / T. Golovin</title>
   </programme>
   <programme start="20260606090000 +0000" stop="20260606113000 +0000" channel="esp-501">
     <title lang="en">M. Granollers / H. Zeballos - H. Heli&#246;vaara / H. Patten</title>
@@ -3978,11 +3978,11 @@
   <programme start="20260606104500 +0000" stop="20260606124500 +0000" channel="esp-502">
     <title lang="en">Moto2 and Moto3 | Round 8 | Hungary</title>
   </programme>
-  <programme start="20260606110000 +0000" stop="20260606130000 +0000" channel="esp-55003vb1">
-    <title lang="en">Alisa Oktiabreva - Sun Xinran</title>
-  </programme>
   <programme start="20260606110000 +0000" stop="20260606130000 +0000" channel="esp-55002vb1">
     <title lang="en">Diede De Groot - Ksenia Chasteau</title>
+  </programme>
+  <programme start="20260606110000 +0000" stop="20260606130000 +0000" channel="esp-55003vb1">
+    <title lang="en">Alisa Oktiabreva - Sun Xinran</title>
   </programme>
   <programme start="20260606110000 +0000" stop="20260606130000 +0000" channel="esp-55004vb1">
     <title lang="en">Tokito Oda - Alfie Hewett</title>
@@ -4011,11 +4011,11 @@
   <programme start="20260606130000 +0000" stop="20260606150000 +0000" channel="esp-55002vb1">
     <title lang="en">G. Forget / H. Leconte - M. Chang / J. McEnroe</title>
   </programme>
-  <programme start="20260606130000 +0000" stop="20260606150000 +0000" channel="esp-55004vb1">
-    <title lang="en">J. Hazelitt / W. Newman - J. Kovackova / K. Zajickova</title>
-  </programme>
   <programme start="20260606130000 +0000" stop="20260606150000 +0000" channel="esp-55003vb1">
     <title lang="en">Luis Guto Miguel - Michael Antonius</title>
+  </programme>
+  <programme start="20260606130000 +0000" stop="20260606150000 +0000" channel="esp-55004vb1">
+    <title lang="en">J. Hazelitt / W. Newman - J. Kovackova / K. Zajickova</title>
   </programme>
   <programme start="20260606130000 +0000" stop="20260606134500 +0000" channel="esp-20080">
     <title lang="en">MotoGP | Round 8 | Hungary</title>
@@ -4065,7 +4065,7 @@
   <programme start="20260606140500 +0000" stop="20260606161500 +0000" channel="esp-20099">
     <title lang="en">Gloucester Rugby - Newcastle Red Bulls</title>
   </programme>
-  <programme start="20260606150000 +0000" stop="20260606170000 +0000" channel="esp-55003vb1">
+  <programme start="20260606145236 +0000" stop="20260606165236 +0000" channel="esp-55003vb1">
     <title lang="en">J. Mackenzie / VJ. Reisach - M. Domenc / D. Jade</title>
   </programme>
   <programme start="20260606160000 +0000" stop="20260606170000 +0000" channel="esp-503">
@@ -4437,9 +4437,6 @@
   <programme start="20260607080000 +0000" stop="20260607090000 +0000" channel="4010">
     <title lang="en">Premier League Review</title>
   </programme>
-  <programme start="20260606083000 +0000" stop="20260606084500 +0000" channel="3939">
-    <title lang="en">EFL 08/09: Millwall v Scunthorpe</title>
-  </programme>
   <programme start="20260606084500 +0000" stop="20260606090000 +0000" channel="3939">
     <title lang="en">EFL 09/10: Sheff Utd v Sheff Weds</title>
   </programme>
@@ -4547,6 +4544,9 @@
   </programme>
   <programme start="20260607083000 +0000" stop="20260607084500 +0000" channel="3939">
     <title lang="en">EFL 14/15: Derby County v N.Forest</title>
+  </programme>
+  <programme start="20260607084500 +0000" stop="20260607090000 +0000" channel="3939">
+    <title lang="en">EFL 14/15: Norwich v Ipswich</title>
   </programme>
   <programme start="20260606080000 +0000" stop="20260606090000 +0000" channel="4081">
     <title lang="en">1st Test Day 1: ENG v NZ Hlts</title>
